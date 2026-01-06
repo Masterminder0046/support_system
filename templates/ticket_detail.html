@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ticket #{{ ticket['id'] }} | AI Support</title>
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <style>
+    :root {
+      --primary: #6366f1;
+      --primary-hover: #4f46e5;
+      --bg-slate: #f8fafc;
+      --border-color: #e2e8f0;
+      --text-dark: #1e293b;
+      --text-muted: #64748b;
+      --white: #ffffff;
+      --radius-lg: 16px;
+      --radius-md: 12px;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.1);
+      --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.1);
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', system-ui, sans-serif; }
+
+    body {
+      background-color: var(--bg-slate);
+      color: var(--text-dark);
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    /* --- Top Navigation --- */
+    .back-nav {
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .back-nav a {
+      text-decoration: none;
+      color: var(--primary);
+      font-weight: 600;
+      font-size: 0.9rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    header {
+      margin-bottom: 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    h2 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+
+    /* --- Status Pill --- */
+    .status-badge {
+      padding: 6px 14px;
+      border-radius: 99px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      background: #e2e8f0;
+    }
+
+    /* --- Layout Grid --- */
+    .grid-layout {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr;
+      gap: 25px;
+    }
+
+    .main-col, .side-col { display: flex; flex-direction: column; gap: 25px; }
+
+    /* --- Cards --- */
+    .card {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border-color);
+      box-shadow: var(--shadow-sm);
+      overflow: hidden;
+    }
+
+    .card-header {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: #fcfcfd;
+    }
+
+    .card-header h3 { font-size: 1rem; font-weight: 700; color: var(--text-dark); }
+    .card-header i { color: var(--primary); font-size: 1.2rem; }
+
+    .card-content { padding: 20px; }
+
+    /* --- Customer Query Section --- */
+    .query-meta {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+      margin-bottom: 20px;
+      font-size: 0.9rem;
+      padding-bottom: 15px;
+      border-bottom: 1px dashed var(--border-color);
+    }
+
+    .query-body {
+      background: #f1f5f9;
+      padding: 15px;
+      border-radius: var(--radius-md);
+      font-style: italic;
+      color: #334155;
+    }
+
+    /* --- Thread Styles --- */
+    .thread-item {
+      padding: 12px;
+      margin-bottom: 12px;
+      border-radius: var(--radius-md);
+      font-size: 0.9rem;
+      position: relative;
+    }
+    .thread-admin { background: #eef2ff; border-left: 4px solid var(--primary); }
+    .thread-timestamp { font-size: 0.75rem; color: var(--text-muted); display: block; margin-top: 5px; }
+
+    /* --- Forms --- */
+    textarea, input[type="text"], input[type="date"] {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      margin-bottom: 12px;
+      font-size: 0.95rem;
+    }
+
+    textarea:focus { outline: 2px solid #c7d2fe; border-color: var(--primary); }
+
+    .btn {
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: none;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s;
+    }
+
+    .btn-primary { background: var(--primary); color: white; }
+    .btn-primary:hover { background: var(--primary-hover); }
+    .btn-voice { background: #fdf2f8; color: #db2777; border: 1px solid #fbcfe8; }
+    .btn-voice:hover { background: #fce7f3; }
+
+    /* --- Tasks & Notes --- */
+    .note-item { border-bottom: 1px solid #f1f5f9; padding: 10px 0; font-size: 0.85rem; }
+    .task-item { 
+      display: flex; 
+      justify-content: space-between; 
+      background: #f8fafc; 
+      padding: 10px; 
+      border-radius: 8px; 
+      margin-bottom: 8px;
+      font-size: 0.85rem;
+    }
+    .task-status { font-weight: 700; color: var(--primary); }
+
+    @media (max-width: 850px) {
+      .grid-layout { grid-template-columns: 1fr; }
+      header { flex-direction: column; align-items: flex-start; gap: 10px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="back-nav">
+      <a href="/dashboard"><i class="ph ph-arrow-left"></i> Back to Dashboard</a>
+    </div>
+
+    <header>
+      <div>
+        <h2>Ticket #{{ ticket['id'] }}</h2>
+        <p style="color: var(--text-muted)">Opened by {{ ticket['email'] }}</p>
+      </div>
+      <div class="status-badge">
+        {{ ticket['status'] }} • {{ ticket['priority'] }} Priority
+      </div>
+    </header>
+
+    <div class="grid-layout">
+      <div class="main-col">
+        
+        <section class="card">
+          <div class="card-header">
+            <i class="ph ph-user-circle"></i>
+            <h3>Customer Query</h3>
+          </div>
+          <div class="card-content">
+            <div class="query-meta">
+              <div><strong>Subject:</strong> {{ ticket['subject'] }}</div>
+              <div><strong>Category:</strong> {{ ticket['issue_type'] }}</div>
+            </div>
+            <div class="query-body">
+              "{{ ticket['message'] }}"
+            </div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="card-header">
+            <i class="ph ph-paper-plane-tilt"></i>
+            <h3>Send Response</h3>
+          </div>
+          <div class="card-content">
+            <form method="POST" action="{{ url_for('admin_reply', ticket_id=ticket['id']) }}">
+              <textarea id="reply_text" name="reply_text" placeholder="Draft your reply to the customer..." required></textarea>
+              <div style="display: flex; gap: 10px;">
+                <button type="submit" class="btn btn-primary">Send Message</button>
+                <button type="button" class="btn btn-voice" onclick="startVoiceReply()">
+                  <i class="ph ph-microphone"></i> Dictate Reply
+                </button>
+              </div>
+            </form>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="card-header">
+            <i class="ph ph-chats"></i>
+            <h3>Conversation History</h3>
+          </div>
+          <div class="card-content">
+            {% for reply in replies %}
+              <div class="thread-item thread-admin">
+                <strong>Admin Response:</strong>
+                <p>{{ reply['reply_text'] }}</p>
+                <span class="thread-timestamp">{{ reply['timestamp'] }}</span>
+              </div>
+            {% endfor %}
+            {% if not replies %}
+              <p style="text-align: center; color: var(--text-muted); font-size: 0.9rem;">No outgoing messages yet.</p>
+            {% endif %}
+          </div>
+        </section>
+      </div>
+
+      <div class="side-col">
+        
+        <section class="card">
+          <div class="card-header">
+            <i class="ph ph-push-pin"></i>
+            <h3>Internal Team Notes</h3>
+          </div>
+          <div class="card-content">
+            <div style="max-height: 200px; overflow-y: auto; margin-bottom: 15px;">
+              {% for note in notes %}
+                <div class="note-item">
+                  <strong>{{ note['author'] }}</strong>: {{ note['content'] }}
+                  <span class="thread-timestamp">{{ note['timestamp'] }}</span>
+                </div>
+              {% else %}
+                <p style="font-size: 0.85rem; color: var(--text-muted)">No internal notes.</p>
+              {% endfor %}
+            </div>
+            <form method="POST" action="{{ url_for('add_internal_note', ticket_id=ticket['id']) }}">
+              <textarea name="content" placeholder="Collaborate with team..." style="min-height: 80px; font-size: 0.85rem;" required></textarea>
+              <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">Save Note</button>
+            </form>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="card-header">
+            <i class="ph ph-check-square"></i>
+            <h3>Follow-up Tasks</h3>
+          </div>
+          <div class="card-content">
+            {% for task in tasks %}
+              <div class="task-item">
+                <div>
+                  <div style="font-weight: 600;">{{ task['description'] }}</div>
+                  <div style="font-size: 0.7rem; color: var(--text-muted)">Due: {{ task['due_date'] }}</div>
+                </div>
+                <span class="task-status">{{ task['status'] }}</span>
+              </div>
+            {% else %}
+              <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 15px;">No tasks assigned.</p>
+            {% endfor %}
+            
+            <form method="POST" action="{{ url_for('add_internal_task', ticket_id=ticket['id']) }}" style="border-top: 1px solid #eee; padding-top: 15px;">
+              <input name="description" placeholder="New task..." required>
+              <input name="due_date" type="date" required>
+              <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center; background: #475569;">Assign Task</button>
+            </form>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function startVoiceReply() {
+      const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+      recognition.lang = 'en-IN';
+      
+      const btn = document.querySelector('.btn-voice');
+      btn.innerHTML = '<i class="ph ph-waveform"></i> Listening...';
+      btn.style.background = "#fce7f3";
+
+      recognition.onresult = (e) => {
+        document.getElementById('reply_text').value = e.results[0][0].transcript;
+        btn.innerHTML = '<i class="ph ph-microphone"></i> Dictate Reply';
+        btn.style.background = "#fdf2f8";
+      };
+
+      recognition.onerror = () => {
+        btn.innerHTML = '<i class="ph ph-microphone"></i> Dictate Reply';
+        btn.style.background = "#fdf2f8";
+      };
+
+      recognition.start();
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📝 Sign Up</title>
+  <style>
+    /* CSS Variables for Theme */
+    :root {
+      --primary-bg: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      --secondary-bg: #f8f9fa;
+      --card-bg: rgba(255, 255, 255, 0.95);
+      --text-color: #333;
+      --accent-color: #ff6b6b;
+      --success-color: #51cf66;
+      --warning-color: #ffd43b;
+      --danger-color: #ff8787;
+      --shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      --border-radius: 15px;
+      --transition: all 0.3s ease;
+    }
+
+    /* Global Styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      background: var(--primary-bg);
+      color: var(--text-color);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      animation: fadeIn 1s ease-in;
+      position: relative;
+      overflow: hidden;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: scale(0.9); }
+      to { opacity: 1; transform: scale(1); }
+    }
+
+    /* Floating Background Elements */
+    body::before {
+      content: '';
+      position: absolute;
+      top: 15%;
+      left: 15%;
+      width: 180px;
+      height: 180px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 50%;
+      animation: float 7s ease-in-out infinite;
+    }
+
+    body::after {
+      content: '';
+      position: absolute;
+      bottom: 15%;
+      right: 15%;
+      width: 140px;
+      height: 140px;
+      background: rgba(81, 207, 102, 0.1);
+      border-radius: 50%;
+      animation: float 9s ease-in-out infinite reverse;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-25px); }
+    }
+
+    /* Form Container */
+    form {
+      background: var(--card-bg);
+      border-radius: var(--border-radius);
+      padding: 40px;
+      box-shadow: var(--shadow);
+      width: 100%;
+      max-width: 400px;
+      text-align: center;
+      transition: var(--transition);
+      animation: slideUp 0.5s ease-out;
+      position: relative;
+      z-index: 1;
+    }
+
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    form:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Heading */
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 30px;
+      background: linear-gradient(45deg, var(--success-color), #ffa726);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 20px rgba(81, 207, 102, 0.5);
+    }
+
+    /* Inputs */
+    input {
+      width: 100%;
+      padding: 15px;
+      margin-bottom: 20px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      font-size: 1rem;
+      background: var(--secondary-bg);
+      transition: var(--transition);
+    }
+
+    input:focus {
+      outline: none;
+      border-color: var(--success-color);
+      box-shadow: 0 0 10px rgba(81, 207, 102, 0.3);
+      transform: scale(1.02);
+    }
+
+    /* Button */
+    button {
+      width: 100%;
+      padding: 15px;
+      border: none;
+      border-radius: 10px;
+      background: linear-gradient(45deg, var(--success-color), #66bb6a);
+      color: white;
+      font-size: 1.1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: var(--transition);
+      margin-bottom: 20px;
+    }
+
+    button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 5px 15px rgba(81, 207, 102, 0.4);
+    }
+
+    /* Link */
+    p {
+      margin-top: 20px;
+      font-size: 0.9rem;
+    }
+
+    a {
+      color: var(--success-color);
+      text-decoration: none;
+      font-weight: bold;
+      transition: var(--transition);
+    }
+
+    a:hover {
+      color: #388e3c;
+      text-decoration: underline;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 480px) {
+      form {
+        padding: 30px 20px;
+      }
+
+      h2 {
+        font-size: 1.8rem;
+      }
+
+      input, button {
+        padding: 12px;
+      }
+    }
+
+    /* Custom Scrollbar (if needed) */
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: var(--secondary-bg);
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: var(--success-color);
+      border-radius: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #388e3c;
+    }
+  </style>
+</head>
+<body>
+  <form method="POST">
+    <h2>📝 Sign Up</h2>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="password" name="password" placeholder="Password" required>
+    <button type="submit">Create Account</button>
+    <p>Already registered? <a href="{{ url_for('auth.login') }}">Login</a></p>
+  </form>
+</body>
+</html>

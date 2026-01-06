@@ -1,0 +1,246 @@
+2025-09-06 12:04:14,968 - INFO - 127.0.0.1 - - [06/Sep/2025 12:04:14] "GET / HTTP/1.1" 200 -
+2025-09-06 12:04:18,424 - INFO - 127.0.0.1 - - [06/Sep/2025 12:04:18] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-06 12:04:20,830 - INFO - 127.0.0.1 - - [06/Sep/2025 12:04:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-06 12:04:50,462 - INFO - Ticket 1 updated to status: open
+2025-09-06 12:04:50,611 - INFO - 127.0.0.1 - - [06/Sep/2025 12:04:50] "[32mPOST /update_status/1 HTTP/1.1[0m" 302 -
+2025-09-06 12:04:59,293 - INFO - 127.0.0.1 - - [06/Sep/2025 12:04:59] "GET /ticket/1 HTTP/1.1" 200 -
+2025-09-06 12:05:19,887 - INFO - Ticket 1 updated to status: closed
+2025-09-06 12:05:19,889 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:19] "[32mPOST /update_status/1 HTTP/1.1[0m" 302 -
+2025-09-06 12:05:20,301 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:20] "GET /ticket/1 HTTP/1.1" 200 -
+2025-09-06 12:05:29,312 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:29] "GET /ticket/1 HTTP/1.1" 200 -
+2025-09-06 12:05:41,542 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:41] "GET /?category=login_failed HTTP/1.1" 200 -
+2025-09-06 12:05:41,746 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-06 12:05:41,749 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:41] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-06 12:05:50,334 - INFO - Ticket 1 updated to status: open
+2025-09-06 12:05:50,336 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:50] "[32mPOST /update_status/1 HTTP/1.1[0m" 302 -
+2025-09-06 12:05:50,573 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:50] "GET /ticket/1 HTTP/1.1" 200 -
+2025-09-06 12:05:55,680 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:55] "GET /?category=login_failed HTTP/1.1" 200 -
+2025-09-06 12:05:56,295 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-06 12:05:56,317 - INFO - 127.0.0.1 - - [06/Sep/2025 12:05:56] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-06 12:06:02,172 - INFO - 127.0.0.1 - - [06/Sep/2025 12:06:02] "GET /ticket/1 HTTP/1.1" 200 -
+2025-09-06 22:12:19,905 - INFO - 127.0.0.1 - - [06/Sep/2025 22:12:19] "GET / HTTP/1.1" 200 -
+2025-09-06 22:12:20,237 - INFO - 127.0.0.1 - - [06/Sep/2025 22:12:20] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-06 22:12:20,580 - INFO - 127.0.0.1 - - [06/Sep/2025 22:12:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-06 22:12:23,500 - INFO - 127.0.0.1 - - [06/Sep/2025 22:12:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-06 22:15:44,213 - INFO - Ticket 5 updated to status: resolved
+2025-09-06 22:15:44,232 - INFO - 127.0.0.1 - - [06/Sep/2025 22:15:44] "[32mPOST /update_status/5 HTTP/1.1[0m" 302 -
+2025-09-06 22:15:45,776 - INFO - 127.0.0.1 - - [06/Sep/2025 22:15:45] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:15:50,514 - INFO - 127.0.0.1 - - [06/Sep/2025 22:15:50] "GET / HTTP/1.1" 200 -
+2025-09-06 22:15:50,615 - INFO - 127.0.0.1 - - [06/Sep/2025 22:15:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-06 22:15:50,620 - INFO - 127.0.0.1 - - [06/Sep/2025 22:15:50] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-06 22:22:14,838 - INFO - 127.0.0.1 - - [06/Sep/2025 22:22:14] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:22:28,573 - INFO - Reply logged for ticket 5
+2025-09-06 22:22:28,578 - INFO - 127.0.0.1 - - [06/Sep/2025 22:22:28] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-06 22:22:28,719 - INFO - 127.0.0.1 - - [06/Sep/2025 22:22:28] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:22:51,264 - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2025-09-06 22:22:51,670 - DEBUG - https://translate.google.com:443 "GET /m?tl=hi&sl=auto&q=sdsd HTTP/1.1" 200 None
+2025-09-06 22:22:52,657 - INFO - 127.0.0.1 - - [06/Sep/2025 22:22:52] "POST /translate HTTP/1.1" 200 -
+2025-09-06 22:29:59,215 - INFO - 127.0.0.1 - - [06/Sep/2025 22:29:59] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:31:53,943 - INFO - 127.0.0.1 - - [06/Sep/2025 22:31:53] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:31:59,415 - INFO - Reply logged for ticket 5
+2025-09-06 22:31:59,452 - INFO - 127.0.0.1 - - [06/Sep/2025 22:31:59] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-06 22:31:59,578 - INFO - 127.0.0.1 - - [06/Sep/2025 22:31:59] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:32:08,210 - INFO - 127.0.0.1 - - [06/Sep/2025 22:32:08] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-09-06 22:32:35,108 - INFO - Reply logged for ticket 5
+2025-09-06 22:32:35,116 - INFO - 127.0.0.1 - - [06/Sep/2025 22:32:35] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-06 22:32:35,636 - INFO - 127.0.0.1 - - [06/Sep/2025 22:32:35] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:32:35,742 - INFO - 127.0.0.1 - - [06/Sep/2025 22:32:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-09-06 22:40:41,253 - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:41] "[35m[1mPOST /ticket/5/task HTTP/1.1[0m" 500 -
+2025-09-06 22:40:46,632 - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:46] "GET /ticket/5/task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-06 22:40:47,256 - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:47] "GET /ticket/5/task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-06 22:40:48,105 - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:48] "GET /ticket/5/task?__debugger__=yes&cmd=resource&f=console.png&s=LAJjW58Q5nxMUhgUNLVM HTTP/1.1" 200 -
+2025-09-06 22:40:51,312 - INFO - Note added to ticket 5 by admin
+2025-09-06 22:40:51,330 - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:51] "[32mPOST /ticket/5/note HTTP/1.1[0m" 302 -
+2025-09-06 22:40:54,449 - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:54] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-06 22:41:03,609 - INFO - Reply logged for ticket 5
+2025-09-06 22:41:03,611 - INFO - 127.0.0.1 - - [06/Sep/2025 22:41:03] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-06 22:41:03,811 - INFO - 127.0.0.1 - - [06/Sep/2025 22:41:03] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 09:58:39,907 - INFO - 127.0.0.1 - - [07/Sep/2025 09:58:39] "GET / HTTP/1.1" 200 -
+2025-09-07 09:58:41,732 - INFO - 127.0.0.1 - - [07/Sep/2025 09:58:41] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 09:58:43,335 - INFO - 127.0.0.1 - - [07/Sep/2025 09:58:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 09:58:52,753 - INFO - 127.0.0.1 - - [07/Sep/2025 09:58:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-07 09:59:16,967 - INFO - 127.0.0.1 - - [07/Sep/2025 09:59:16] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 10:00:44,839 - INFO - Reply logged for ticket 5
+2025-09-07 10:00:44,957 - INFO - 127.0.0.1 - - [07/Sep/2025 10:00:44] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 10:00:45,547 - INFO - 127.0.0.1 - - [07/Sep/2025 10:00:45] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 10:01:40,458 - INFO - 127.0.0.1 - - [07/Sep/2025 10:01:40] "GET /ticket/2 HTTP/1.1" 200 -
+2025-09-07 10:15:39,941 - INFO -  * Detected change in 'E:\\support_system\\email_sender.py', reloading
+2025-09-07 10:17:05,360 - INFO - 127.0.0.1 - - [07/Sep/2025 10:17:05] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 10:17:14,057 - INFO - Reply logged for ticket 5
+2025-09-07 10:17:14,061 - INFO - 127.0.0.1 - - [07/Sep/2025 10:17:14] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 10:17:14,326 - INFO - 127.0.0.1 - - [07/Sep/2025 10:17:14] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 10:18:13,133 - INFO -  * Detected change in 'E:\\support_system\\test.py', reloading
+2025-09-07 10:24:59,746 - INFO - 127.0.0.1 - - [07/Sep/2025 10:24:59] "GET / HTTP/1.1" 200 -
+2025-09-07 10:25:00,280 - INFO - 127.0.0.1 - - [07/Sep/2025 10:25:00] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 10:25:01,034 - INFO - 127.0.0.1 - - [07/Sep/2025 10:25:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 10:25:07,165 - INFO - 127.0.0.1 - - [07/Sep/2025 10:25:07] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:25:32,916 - INFO - 127.0.0.1 - - [07/Sep/2025 10:25:32] "[32mPOST /admin_reply/4 HTTP/1.1[0m" 302 -
+2025-09-07 10:25:33,082 - INFO - 127.0.0.1 - - [07/Sep/2025 10:25:33] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:09,349 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:09] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:13,379 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:13] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:19,232 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:19] "[32mPOST /admin_reply/4 HTTP/1.1[0m" 302 -
+2025-09-07 10:26:19,368 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:19] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:26,378 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:26] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:37,136 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:37] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:40,466 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:40] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:41,408 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:41] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:43,691 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:43] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:49,293 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:49] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:50,294 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:50] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:51,329 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:51] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:53,696 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:53] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:54,576 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:54] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:26:59,541 - INFO - 127.0.0.1 - - [07/Sep/2025 10:26:59] "GET /ticket/3 HTTP/1.1" 200 -
+2025-09-07 10:27:11,256 - INFO - 127.0.0.1 - - [07/Sep/2025 10:27:11] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 10:27:54,413 - INFO - 127.0.0.1 - - [07/Sep/2025 10:27:54] "GET /ticket/3 HTTP/1.1" 200 -
+2025-09-07 10:28:01,323 - INFO - 127.0.0.1 - - [07/Sep/2025 10:28:01] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:28:11,762 - INFO - 127.0.0.1 - - [07/Sep/2025 10:28:11] "[32mPOST /admin_reply/4 HTTP/1.1[0m" 302 -
+2025-09-07 10:28:11,872 - INFO - 127.0.0.1 - - [07/Sep/2025 10:28:11] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 10:30:40,650 - INFO - 127.0.0.1 - - [07/Sep/2025 10:30:40] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 11:09:00,782 - INFO - 127.0.0.1 - - [07/Sep/2025 11:09:00] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 11:14:32,461 - INFO - 127.0.0.1 - - [07/Sep/2025 11:14:32] "[32mPOST /admin_reply/4 HTTP/1.1[0m" 302 -
+2025-09-07 11:14:32,844 - INFO - 127.0.0.1 - - [07/Sep/2025 11:14:32] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 11:18:42,794 - INFO -  * Detected change in 'E:\\support_system\\email_utils.py', reloading
+2025-09-07 11:21:24,867 - INFO - 127.0.0.1 - - [07/Sep/2025 11:21:24] "GET / HTTP/1.1" 200 -
+2025-09-07 11:21:25,097 - INFO - 127.0.0.1 - - [07/Sep/2025 11:21:25] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 11:21:25,280 - INFO - 127.0.0.1 - - [07/Sep/2025 11:21:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 11:21:44,195 - INFO - 127.0.0.1 - - [07/Sep/2025 11:21:44] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:21:51,973 - INFO - 127.0.0.1 - - [07/Sep/2025 11:21:51] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 11:21:52,428 - INFO - 127.0.0.1 - - [07/Sep/2025 11:21:52] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:24:45,744 - INFO - 127.0.0.1 - - [07/Sep/2025 11:24:45] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:36:04,435 - INFO - 127.0.0.1 - - [07/Sep/2025 11:36:04] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:36:09,334 - INFO - 127.0.0.1 - - [07/Sep/2025 11:36:09] "[35m[1mGET /ticket/5 HTTP/1.1[0m" 500 -
+2025-09-07 11:36:15,342 - INFO - 127.0.0.1 - - [07/Sep/2025 11:36:15] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 11:36:15,556 - INFO - 127.0.0.1 - - [07/Sep/2025 11:36:15] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:43:26,358 - INFO - 127.0.0.1 - - [07/Sep/2025 11:43:26] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:43:27,113 - INFO - 127.0.0.1 - - [07/Sep/2025 11:43:27] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:43:45,328 - INFO - 127.0.0.1 - - [07/Sep/2025 11:43:45] "GET / HTTP/1.1" 200 -
+2025-09-07 11:43:45,894 - INFO - 127.0.0.1 - - [07/Sep/2025 11:43:45] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 11:43:46,722 - INFO - 127.0.0.1 - - [07/Sep/2025 11:43:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 11:44:05,948 - INFO - 127.0.0.1 - - [07/Sep/2025 11:44:05] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:48:18,726 - INFO - 127.0.0.1 - - [07/Sep/2025 11:48:18] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 11:48:19,015 - INFO - 127.0.0.1 - - [07/Sep/2025 11:48:19] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 11:59:30,444 - INFO -  * Detected change in 'E:\\support_system\\ticket_logger.py', reloading
+2025-09-07 12:11:13,419 - INFO - 127.0.0.1 - - [07/Sep/2025 12:11:13] "GET / HTTP/1.1" 200 -
+2025-09-07 12:11:15,213 - INFO - 127.0.0.1 - - [07/Sep/2025 12:11:15] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 12:11:16,303 - INFO - 127.0.0.1 - - [07/Sep/2025 12:11:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 12:11:31,415 - INFO - 127.0.0.1 - - [07/Sep/2025 12:11:31] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 12:11:47,310 - INFO - 127.0.0.1 - - [07/Sep/2025 12:11:47] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 12:11:47,439 - INFO - 127.0.0.1 - - [07/Sep/2025 12:11:47] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 12:11:48,635 - INFO - 127.0.0.1 - - [07/Sep/2025 12:11:48] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 12:12:23,775 - INFO - 127.0.0.1 - - [07/Sep/2025 12:12:23] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 12:12:24,169 - INFO - 127.0.0.1 - - [07/Sep/2025 12:12:24] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 12:23:08,123 - INFO - 127.0.0.1 - - [07/Sep/2025 12:23:08] "GET / HTTP/1.1" 200 -
+2025-09-07 12:23:08,704 - INFO - 127.0.0.1 - - [07/Sep/2025 12:23:08] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 12:23:09,057 - INFO - 127.0.0.1 - - [07/Sep/2025 12:23:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 12:23:40,815 - INFO - 127.0.0.1 - - [07/Sep/2025 12:23:40] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 12:23:58,028 - INFO - Logging reply for ticket_id=5 | text=sheik
+2025-09-07 12:23:58,654 - INFO - Logging reply for ticket_id=5 | text=sheik
+2025-09-07 12:24:00,499 - INFO - \u2705 Reply logged for ticket 5
+2025-09-07 12:24:00,787 - INFO - \u2705 Reply logged for ticket 5
+2025-09-07 12:24:01,048 - INFO - 127.0.0.1 - - [07/Sep/2025 12:24:01] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 12:24:01,048 - INFO - 127.0.0.1 - - [07/Sep/2025 12:24:01] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 12:24:03,937 - INFO - Logging reply for ticket_id=5 | text=sheik
+2025-09-07 12:24:04,331 - INFO - \u2705 Reply logged for ticket 5
+2025-09-07 12:24:04,335 - INFO - 127.0.0.1 - - [07/Sep/2025 12:24:04] "[32mPOST /admin_reply/5 HTTP/1.1[0m" 302 -
+2025-09-07 12:24:05,268 - INFO - 127.0.0.1 - - [07/Sep/2025 12:24:05] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-07 12:24:49,936 - INFO - 127.0.0.1 - - [07/Sep/2025 12:24:49] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 12:25:14,808 - INFO - Logging reply for ticket_id=4 | text=I will check and update you so
+2025-09-07 12:25:15,180 - INFO - \u2705 Reply logged for ticket 4
+2025-09-07 12:25:15,183 - INFO - 127.0.0.1 - - [07/Sep/2025 12:25:15] "[32mPOST /admin_reply/4 HTTP/1.1[0m" 302 -
+2025-09-07 12:25:15,545 - INFO - 127.0.0.1 - - [07/Sep/2025 12:25:15] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 12:53:20,271 - INFO - Ticket 4 updated to status: closed
+2025-09-07 12:53:20,371 - INFO - 127.0.0.1 - - [07/Sep/2025 12:53:20] "[32mPOST /update_status/4 HTTP/1.1[0m" 302 -
+2025-09-07 12:53:27,386 - INFO - 127.0.0.1 - - [07/Sep/2025 12:53:27] "GET /ticket/4 HTTP/1.1" 200 -
+2025-09-07 12:53:47,032 - INFO - 127.0.0.1 - - [07/Sep/2025 12:53:47] "GET / HTTP/1.1" 200 -
+2025-09-07 12:53:48,756 - INFO - 127.0.0.1 - - [07/Sep/2025 12:53:48] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 12:53:49,210 - INFO - 127.0.0.1 - - [07/Sep/2025 12:53:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 12:55:23,859 - INFO - 127.0.0.1 - - [07/Sep/2025 12:55:23] "GET / HTTP/1.1" 200 -
+2025-09-07 12:55:23,914 - INFO - 127.0.0.1 - - [07/Sep/2025 12:55:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-07 12:55:23,935 - INFO - 127.0.0.1 - - [07/Sep/2025 12:55:23] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-07 12:55:44,061 - INFO - 127.0.0.1 - - [07/Sep/2025 12:55:44] "GET /ticket/6 HTTP/1.1" 200 -
+2025-09-07 12:56:06,376 - INFO - Logging reply for ticket_id=6 | text=will update you
+2025-09-07 12:56:06,583 - INFO - \u2705 Reply logged for ticket 6
+2025-09-07 12:56:06,607 - INFO - 127.0.0.1 - - [07/Sep/2025 12:56:06] "[32mPOST /admin_reply/6 HTTP/1.1[0m" 302 -
+2025-09-07 12:56:06,723 - INFO - 127.0.0.1 - - [07/Sep/2025 12:56:06] "GET /ticket/6 HTTP/1.1" 200 -
+2025-09-07 13:08:51,996 - INFO -  * Detected change in 'E:\\support_system\\email_utils.py', reloading
+2025-09-08 15:01:29,910 - INFO - 127.0.0.1 - - [08/Sep/2025 15:01:29] "GET / HTTP/1.1" 200 -
+2025-09-08 15:01:32,539 - INFO - 127.0.0.1 - - [08/Sep/2025 15:01:32] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 15:01:34,164 - INFO - 127.0.0.1 - - [08/Sep/2025 15:01:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 15:01:40,116 - INFO - 127.0.0.1 - - [08/Sep/2025 15:01:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-08 15:01:53,657 - INFO - 127.0.0.1 - - [08/Sep/2025 15:01:53] "GET /ticket/17 HTTP/1.1" 200 -
+2025-09-08 15:02:35,548 - INFO - Logging reply for ticket_id=17 | text=Please wait will check ur orde
+2025-09-08 15:02:36,140 - INFO -  Reply logged for ticket 17
+2025-09-08 15:02:36,192 - INFO - 127.0.0.1 - - [08/Sep/2025 15:02:36] "[32mPOST /admin_reply/17 HTTP/1.1[0m" 302 -
+2025-09-08 15:02:36,603 - INFO - 127.0.0.1 - - [08/Sep/2025 15:02:36] "GET /ticket/17 HTTP/1.1" 200 -
+2025-09-08 15:04:14,025 - INFO - 127.0.0.1 - - [08/Sep/2025 15:04:14] "GET / HTTP/1.1" 200 -
+2025-09-08 15:04:14,125 - INFO - 127.0.0.1 - - [08/Sep/2025 15:04:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 15:04:14,140 - INFO - 127.0.0.1 - - [08/Sep/2025 15:04:14] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 15:11:12,417 - INFO -  * Detected change in 'E:\\support_system\\email_utils.py', reloading
+2025-09-08 15:25:44,776 - INFO - 127.0.0.1 - - [08/Sep/2025 15:25:44] "GET / HTTP/1.1" 200 -
+2025-09-08 15:25:45,726 - INFO - 127.0.0.1 - - [08/Sep/2025 15:25:45] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 15:25:46,627 - INFO - 127.0.0.1 - - [08/Sep/2025 15:25:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 15:25:58,005 - INFO - 127.0.0.1 - - [08/Sep/2025 15:25:58] "GET /ticket/19 HTTP/1.1" 200 -
+2025-09-08 15:26:27,225 - INFO - 127.0.0.1 - - [08/Sep/2025 15:26:27] "GET /ticket/19 HTTP/1.1" 200 -
+2025-09-08 15:26:40,506 - INFO - Logging reply for ticket_id=19 | text=ok wait 
+
+2025-09-08 15:26:40,709 - INFO -  Reply logged for ticket 19
+2025-09-08 15:26:40,805 - INFO - 127.0.0.1 - - [08/Sep/2025 15:26:40] "[32mPOST /admin_reply/19 HTTP/1.1[0m" 302 -
+2025-09-08 15:26:41,192 - INFO - 127.0.0.1 - - [08/Sep/2025 15:26:41] "GET /ticket/19 HTTP/1.1" 200 -
+2025-09-08 15:28:01,987 - INFO - 127.0.0.1 - - [08/Sep/2025 15:28:01] "GET / HTTP/1.1" 200 -
+2025-09-08 15:28:02,062 - INFO - 127.0.0.1 - - [08/Sep/2025 15:28:02] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 15:28:02,112 - INFO - 127.0.0.1 - - [08/Sep/2025 15:28:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 15:34:27,800 - INFO -  * Detected change in 'E:\\support_system\\email_utils.py', reloading
+2025-09-08 15:38:26,685 - INFO - 127.0.0.1 - - [08/Sep/2025 15:38:26] "GET / HTTP/1.1" 200 -
+2025-09-08 15:38:27,193 - INFO - 127.0.0.1 - - [08/Sep/2025 15:38:27] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 15:38:27,427 - INFO - 127.0.0.1 - - [08/Sep/2025 15:38:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 15:43:19,965 - INFO - 127.0.0.1 - - [08/Sep/2025 15:43:19] "GET / HTTP/1.1" 200 -
+2025-09-08 15:43:20,244 - INFO - 127.0.0.1 - - [08/Sep/2025 15:43:20] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 15:43:20,288 - INFO - 127.0.0.1 - - [08/Sep/2025 15:43:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 15:49:22,380 - INFO -  * Detected change in 'E:\\support_system\\email_utils.py', reloading
+2025-09-08 15:54:20,760 - ERROR - Failed to retrieve tickets: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: it is already loaded
+2025-09-08 15:54:21,518 - INFO - 127.0.0.1 - - [08/Sep/2025 15:54:21] "GET / HTTP/1.1" 200 -
+2025-09-08 15:54:28,644 - INFO - 127.0.0.1 - - [08/Sep/2025 15:54:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-08 15:54:43,625 - INFO - 127.0.0.1 - - [08/Sep/2025 15:54:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-09-08 15:54:44,651 - INFO - 127.0.0.1 - - [08/Sep/2025 15:54:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-09-08 15:54:47,113 - INFO - 127.0.0.1 - - [08/Sep/2025 15:54:47] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=aNQI9auQWzhGjibULAet HTTP/1.1" 200 -
+2025-09-08 15:54:50,113 - INFO - 127.0.0.1 - - [08/Sep/2025 15:54:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-09-08 16:27:13,251 - INFO - 127.0.0.1 - - [08/Sep/2025 16:27:13] "GET / HTTP/1.1" 200 -
+2025-09-08 16:27:14,177 - INFO - 127.0.0.1 - - [08/Sep/2025 16:27:14] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 16:27:14,487 - INFO - 127.0.0.1 - - [08/Sep/2025 16:27:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 16:28:56,790 - INFO - 127.0.0.1 - - [08/Sep/2025 16:28:56] "GET / HTTP/1.1" 200 -
+2025-09-08 16:28:56,837 - INFO - 127.0.0.1 - - [08/Sep/2025 16:28:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 16:28:56,848 - INFO - 127.0.0.1 - - [08/Sep/2025 16:28:56] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 16:29:00,122 - INFO - 127.0.0.1 - - [08/Sep/2025 16:29:00] "GET /ticket/25 HTTP/1.1" 200 -
+2025-09-08 16:33:31,837 - INFO - 127.0.0.1 - - [08/Sep/2025 16:33:31] "GET / HTTP/1.1" 200 -
+2025-09-08 16:33:31,919 - INFO - 127.0.0.1 - - [08/Sep/2025 16:33:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 16:33:31,921 - INFO - 127.0.0.1 - - [08/Sep/2025 16:33:31] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 16:41:53,056 - INFO -  * Detected change in 'E:\\support_system\\email_utils.py', reloading
+2025-09-08 19:56:17,594 - ERROR - Failed to retrieve tickets: 2059 (HY000): Authentication plugin 'mysql_native_password' cannot be loaded: it is already loaded
+2025-09-08 19:56:18,157 - INFO - 127.0.0.1 - - [08/Sep/2025 19:56:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-09-08 19:57:00,959 - INFO - 127.0.0.1 - - [08/Sep/2025 19:57:00] "GET / HTTP/1.1" 200 -
+2025-09-08 19:57:07,348 - INFO - 127.0.0.1 - - [08/Sep/2025 19:57:07] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-08 19:57:10,075 - INFO - 127.0.0.1 - - [08/Sep/2025 19:57:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-08 19:57:57,300 - INFO - Deleted ticket: 30
+2025-09-08 19:57:57,304 - INFO - 127.0.0.1 - - [08/Sep/2025 19:57:57] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2025-09-08 19:57:57,823 - INFO - 127.0.0.1 - - [08/Sep/2025 19:57:57] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-09-11 13:48:30,591 - INFO - 127.0.0.1 - - [11/Sep/2025 13:48:30] "GET /dashboard HTTP/1.1" 200 -
+2025-09-11 13:48:30,801 - INFO - 127.0.0.1 - - [11/Sep/2025 13:48:30] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-09-11 13:48:30,843 - INFO - 127.0.0.1 - - [11/Sep/2025 13:48:30] "GET /static/style.css HTTP/1.1" 200 -
+2025-09-11 13:48:54,626 - INFO - Ticket 5 updated to status: open
+2025-09-11 13:48:54,635 - INFO - 127.0.0.1 - - [11/Sep/2025 13:48:54] "[32mPOST /update_status/5 HTTP/1.1[0m" 302 -
+2025-09-11 13:48:56,557 - INFO - 127.0.0.1 - - [11/Sep/2025 13:48:56] "GET /ticket/5 HTTP/1.1" 200 -
+2025-09-11 13:54:48,174 - INFO - 127.0.0.1 - - [11/Sep/2025 13:54:48] "GET /login HTTP/1.1" 200 -
+2025-09-11 13:54:50,711 - INFO - 127.0.0.1 - - [11/Sep/2025 13:54:50] "GET /signup HTTP/1.1" 200 -
+2025-09-11 13:55:05,461 - INFO - 127.0.0.1 - - [11/Sep/2025 13:55:05] "GET /signup HTTP/1.1" 200 -
+2025-09-11 13:56:58,775 - INFO - 127.0.0.1 - - [11/Sep/2025 13:56:58] "GET /signup HTTP/1.1" 200 -
+2025-09-11 13:57:51,827 - INFO - 127.0.0.1 - - [11/Sep/2025 13:57:51] "GET /login HTTP/1.1" 200 -
+2025-09-11 13:58:14,517 - INFO - 127.0.0.1 - - [11/Sep/2025 13:58:14] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-09-11 14:00:48,145 - INFO - 127.0.0.1 - - [11/Sep/2025 14:00:48] "GET /login HTTP/1.1" 200 -
+2025-09-11 14:00:48,244 - INFO - 127.0.0.1 - - [11/Sep/2025 14:00:48] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-09-11 14:02:04,236 - INFO - 127.0.0.1 - - [11/Sep/2025 14:02:04] "GET /login HTTP/1.1" 200 -
+2025-09-11 14:03:01,611 - INFO - 127.0.0.1 - - [11/Sep/2025 14:03:01] "GET /signup HTTP/1.1" 200 -
+2025-09-11 14:05:22,536 - INFO - 127.0.0.1 - - [11/Sep/2025 14:05:22] "GET /signup HTTP/1.1" 200 -
+2025-09-11 14:05:40,030 - INFO - 127.0.0.1 - - [11/Sep/2025 14:05:40] "GET /login HTTP/1.1" 200 -
+2025-09-11 14:07:55,406 - INFO - 127.0.0.1 - - [11/Sep/2025 14:07:55] "GET /login HTTP/1.1" 200 -
+2025-09-11 14:08:37,013 - INFO - 127.0.0.1 - - [11/Sep/2025 14:08:37] "GET /login HTTP/1.1" 200 -

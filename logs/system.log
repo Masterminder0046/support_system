@@ -1,0 +1,1057 @@
+2025-08-15 11:01:48,964 - INFO - Support system started.
+2025-08-15 11:01:52,681 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: Unable to access dashboard
+2025-08-15 11:01:57,922 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-08-15 11:01:58,007 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Unable to access dashboard
+2025-08-15 11:01:58,093 - INFO - Ticket logged and reply sent | Issue type: general
+2025-08-15 11:01:59,050 - INFO - Email processing completed.
+2025-08-15 11:14:30,999 - INFO - Support system started.
+2025-08-15 11:14:34,552 - INFO - Processing email from mgb102005@gmail.com | Subject: Order issue
+2025-08-15 11:14:38,748 - INFO - Reply sent to mgb102005@gmail.com | Issue type: general
+2025-08-15 11:14:38,891 - INFO - Ticket logged: mgb102005@gmail.com | general | Order issue
+2025-08-15 11:14:38,898 - INFO - Ticket logged and reply sent | Issue type: general
+2025-08-15 11:14:39,561 - INFO - Email processing completed.
+2025-08-15 11:17:15,613 - INFO - Support system started.
+2025-08-15 11:17:19,073 - ERROR - Fatal error in main pipeline: 'NoneType' object is not iterable
+2025-08-15 11:18:23,266 - INFO - Support system started.
+2025-08-15 11:18:32,022 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: Unable to log into the dashboard
+2025-08-15 11:18:36,561 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-08-15 11:18:36,655 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Unable to log into the dashboard
+2025-08-15 11:18:36,657 - INFO - Ticket logged and reply sent | Issue type: general
+2025-08-15 11:18:38,033 - ERROR - Fatal error in main pipeline: 'NoneType' object is not iterable
+2025-08-15 11:29:41,577 - INFO - Support system started.
+2025-08-15 11:29:45,281 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: Delivery Status Notification, Failure
+2025-08-15 11:29:50,181 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-08-15 11:29:50,290 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Delivery Status Notification, Failure
+2025-08-15 11:29:50,292 - INFO - Ticket logged and reply sent | Issue type: general
+2025-08-15 11:29:51,147 - ERROR - Fatal error in main pipeline: 'NoneType' object is not iterable
+2025-08-15 11:44:39,618 - INFO - Support system started.
+2025-08-15 11:44:43,149 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: App crashes on login
+2025-08-15 11:44:47,630 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-08-15 11:44:48,037 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | App crashes on login
+2025-08-15 11:44:48,045 - INFO - Ticket logged and reply sent | Issue type: general
+2025-08-15 11:44:49,309 - ERROR - Fatal error in main pipeline: 'NoneType' object is not iterable
+2025-08-15 11:49:38,343 - INFO - Support system started.
+2025-08-15 11:49:43,555 - ERROR - fetch_emails() returned None. Exiting.
+2025-08-15 11:55:19,115 - INFO - Support system started.
+2025-08-15 11:55:23,091 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: How do I update my profile?
+2025-08-15 11:55:28,016 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-08-15 11:55:28,230 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | How do I update my profile?
+2025-08-15 11:55:28,235 - INFO - Ticket logged and reply sent | Issue type: general
+2025-08-15 11:55:29,207 - ERROR - fetch_emails() returned None. Exiting.
+2025-08-15 14:31:18,710 - INFO - Support system started.
+2025-08-15 14:31:38,670 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: order_delay
+2025-08-15 14:31:43,386 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: order_delay
+2025-08-15 14:31:44,109 - INFO - Ticket logged: sheikmohamed0046@gmail.com | order_delay | order_delay
+2025-08-15 14:31:44,110 - INFO - Ticket logged and reply sent | Issue type: order_delay
+2025-08-15 14:31:44,779 - ERROR - fetch_emails() returned None. Exiting.
+2025-08-15 14:39:23,847 - INFO - Support system started.
+2025-08-15 14:39:27,147 - ERROR - fetch_emails() returned None. Exiting.
+2025-08-15 14:41:44,034 - INFO - Support system initialized.
+2025-08-15 14:41:46,614 - ERROR - fetch_emails() returned None. Check email_handler for return logic.
+2025-08-15 14:45:28,213 - INFO - Support system initialized.
+2025-08-15 14:45:31,178 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-08-15 14:45:31,179 - INFO - No new emails to process.
+2025-08-15 14:46:14,813 - INFO - Support system initialized.
+2025-08-15 14:46:17,165 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-08-15 14:46:17,165 - INFO - No new emails to process.
+2025-08-15 14:46:19,606 - INFO - Support system initialized.
+2025-08-15 14:46:21,954 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-08-15 14:46:21,955 - INFO - No new emails to process.
+2025-08-15 14:46:25,548 - INFO - Support system initialized.
+2025-08-15 14:46:28,934 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-08-15 14:46:29,131 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | payment issues
+2025-08-15 14:46:29,138 - ERROR - Fatal error in main pipeline: send_reply() missing 1 required positional argument: 'body'
+Traceback (most recent call last):
+  File "E:\support_system\main.py", line 52, in main
+    process_email(email_data)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "E:\support_system\main.py", line 29, in process_email
+    reply = send_reply(sender, issue_type)
+TypeError: send_reply() missing 1 required positional argument: 'body'
+2025-08-15 14:50:10,193 - INFO - Support system initialized.
+2025-08-15 14:50:13,517 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-08-15 14:50:13,519 - INFO - No new emails to process.
+2025-08-15 14:53:13,383 - INFO - Support system initialized.
+2025-08-15 14:53:17,296 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-08-15 14:53:17,412 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | payment issues
+2025-08-15 14:53:21,698 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: payment_failed
+2025-08-15 14:53:21,704 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: payment_failed
+2025-08-15 14:53:21,710 - INFO - All emails processed successfully.
+2025-08-15 17:29:15,036 - INFO - Support system initialized.
+2025-08-15 17:29:19,353 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-08-15 17:29:19,598 - INFO - Ticket logged: muruganandhammuthukrishnan@gmail.com | general | Order Delivery was not reached
+2025-08-15 17:29:27,964 - INFO - Reply sent to muruganandhammuthukrishnan@gmail.com | Issue type: general
+2025-08-15 17:29:27,971 - INFO - Reply sent to muruganandhammuthukrishnan@gmail.com | Issue: general
+2025-08-15 17:29:27,974 - INFO - All emails processed successfully.
+2025-08-18 13:19:30,691 - INFO - Support system initialized.
+2025-08-18 13:19:31,584 - CRITICAL - Failed to connect to email server | Error: [Errno 11001] getaddrinfo failed
+2025-08-18 13:19:31,632 - INFO - No new emails to process.
+2025-08-18 13:24:18,049 - INFO - Support system initialized.
+2025-08-18 13:24:28,148 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-08-18 13:24:28,149 - INFO - No new emails to process.
+2025-08-18 13:59:43,578 - INFO - Support system initialized.
+2025-08-18 13:59:52,370 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-08-18 13:59:54,981 - INFO - Ticket logged: asharafdon786@gmail.com | general | Order issue
+2025-08-18 13:59:59,703 - INFO - Reply sent to asharafdon786@gmail.com | Issue type: general
+2025-08-18 13:59:59,704 - INFO - Reply sent to asharafdon786@gmail.com | Issue: general
+2025-08-18 13:59:59,704 - INFO - All emails processed successfully.
+2025-08-22 14:19:37,279 - INFO - Support system initialized.
+2025-08-22 14:19:42,245 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-08-22 14:19:42,594 - INFO - Ticket logged: pazhaniraja216@gmail.com | general | https://drive.google.com/drive/folders/16BO18FscH6E4bqCHCwwxwWXwCb1mv5qa?usp=drive_link
+2025-08-22 14:19:46,682 - INFO - Reply sent to pazhaniraja216@gmail.com | Issue type: general
+2025-08-22 14:19:46,685 - INFO - Reply sent to pazhaniraja216@gmail.com | Issue: general
+2025-08-22 14:19:46,921 - INFO - Ticket logged: pazhaniraja216@gmail.com | general | (No Subject)
+2025-08-22 14:19:50,509 - INFO - Reply sent to pazhaniraja216@gmail.com | Issue type: general
+2025-08-22 14:19:50,514 - INFO - Reply sent to pazhaniraja216@gmail.com | Issue: general
+2025-08-22 14:19:50,709 - INFO - Ticket logged: vinithmuni@gmail.com | payment_failed | Payment issue
+2025-08-22 14:19:54,351 - INFO - Reply sent to vinithmuni@gmail.com | Issue type: payment_failed
+2025-08-22 14:19:54,361 - INFO - Reply sent to vinithmuni@gmail.com | Issue: payment_failed
+2025-08-22 14:19:54,364 - INFO - All emails processed successfully.
+2025-09-06 12:23:14,271 - INFO - Support system initialized.
+2025-09-06 12:23:16,566 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-09-06 12:23:16,603 - INFO - No new emails to process.
+2025-09-06 12:23:38,295 - INFO - Support system initialized.
+2025-09-06 12:23:39,811 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-09-06 12:23:39,814 - INFO - No new emails to process.
+2025-09-06 12:23:58,803 - INFO - Support system initialized.
+2025-09-06 12:24:00,204 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-09-06 12:24:00,207 - INFO - No new emails to process.
+2025-09-06 12:53:01,732 - INFO - Support system initialized.
+2025-09-06 12:53:06,280 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-09-06 12:53:06,423 - INFO - No new emails to process.
+2025-09-06 13:02:59,698 - INFO - Support system initialized.
+2025-09-06 13:03:06,172 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-09-06 13:03:24,517 - INFO - Ticket logged: no-reply@accounts.google.com | general | Security alert
+2025-09-06 13:03:35,163 - ERROR - Failed to send reply to no-reply@accounts.google.com | Error: Connection unexpectedly closed
+2025-09-06 13:03:35,166 - ERROR - Fatal error in main pipeline: Connection unexpectedly closed
+Traceback (most recent call last):
+  File "E:\support_system\main.py", line 52, in main
+    process_email(email_data)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "E:\support_system\main.py", line 29, in process_email
+    reply = send_reply(sender, issue_type, body)
+  File "E:\support_system\email_sender.py", line 23, in send_reply
+    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+         ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 343, in connect
+    (code, msg) = self.getreply()
+                  ~~~~~~~~~~~~~^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 405, in getreply
+    raise SMTPServerDisconnected("Connection unexpectedly closed")
+smtplib.SMTPServerDisconnected: Connection unexpectedly closed
+2025-09-06 17:49:14,033 - INFO - Support system initialized.
+2025-09-06 17:49:17,650 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-06 17:49:17,651 - INFO - No new emails to process.
+2025-09-06 17:50:07,065 - INFO - Support system initialized.
+2025-09-06 17:50:09,424 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-06 17:50:09,426 - INFO - No new emails to process.
+2025-09-06 17:50:13,023 - INFO - Support system initialized.
+2025-09-06 17:50:15,978 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-06 17:50:21,148 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | money not come
+2025-09-06 17:50:31,395 - ERROR - Failed to send reply to sheikmohamed0046@gmail.com | Error: Connection unexpectedly closed
+2025-09-06 17:50:31,459 - ERROR - Fatal error in main pipeline: Connection unexpectedly closed
+Traceback (most recent call last):
+  File "E:\support_system\main.py", line 52, in main
+    process_email(email_data)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "E:\support_system\main.py", line 29, in process_email
+    reply = send_reply(sender, issue_type, body)
+  File "E:\support_system\email_sender.py", line 23, in send_reply
+    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+         ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 343, in connect
+    (code, msg) = self.getreply()
+                  ~~~~~~~~~~~~~^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 405, in getreply
+    raise SMTPServerDisconnected("Connection unexpectedly closed")
+smtplib.SMTPServerDisconnected: Connection unexpectedly closed
+2025-09-06 18:04:06,379 - INFO - Support system initialized.
+2025-09-06 18:04:09,507 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-06 18:04:09,564 - INFO - No new emails to process.
+2025-09-06 18:04:21,108 - INFO - Support system initialized.
+2025-09-06 18:04:23,340 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-06 18:04:23,343 - INFO - No new emails to process.
+2025-09-06 18:04:30,494 - INFO - Support system initialized.
+2025-09-06 18:04:32,552 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-06 18:04:32,779 - INFO - No new emails to process.
+2025-09-06 18:05:02,394 - INFO - Support system initialized.
+2025-09-06 18:05:05,636 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-06 18:05:05,643 - INFO - No new emails to process.
+2025-09-06 18:07:12,794 - INFO - Support system initialized.
+2025-09-06 18:07:18,870 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-06 18:08:07,124 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Order not receive
+2025-09-06 18:08:09,816 - ERROR - Failed to send reply to sheikmohamed0046@gmail.com | Error: STARTTLS extension not supported by server.
+2025-09-06 18:08:09,818 - ERROR - Fatal error in main pipeline: STARTTLS extension not supported by server.
+Traceback (most recent call last):
+  File "E:\support_system\main.py", line 51, in main
+    process_email(email_data)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "E:\support_system\main.py", line 28, in process_email
+    reply = send_reply(sender, issue_type, body)
+  File "E:\support_system\email_sender.py", line 25, in send_reply
+    server.starttls()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\smtplib.py", line 771, in starttls
+    raise SMTPNotSupportedError(
+        "STARTTLS extension not supported by server.")
+smtplib.SMTPNotSupportedError: STARTTLS extension not supported by server.
+2025-09-06 21:59:48,826 - INFO - Support system initialized.
+2025-09-06 21:59:51,190 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-06 21:59:51,191 - INFO - No new emails to process.
+2025-09-06 22:04:49,511 - INFO - Support system initialized.
+2025-09-06 22:04:52,685 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-06 22:05:00,251 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | payment not recived
+2025-09-06 22:05:05,715 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: payment_failed
+2025-09-06 22:05:05,716 - INFO - All emails processed successfully.
+2025-09-07 12:50:49,860 - INFO - Support system initialized.
+2025-09-07 12:50:53,283 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-07 12:50:58,344 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: Order not receive
+2025-09-07 12:51:02,642 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-07 12:51:02,643 - INFO - All emails processed successfully.
+2025-09-07 12:56:50,906 - INFO - Support system initialized.
+2025-09-07 12:56:53,615 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-07 12:56:54,551 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: Re: Order not receive
+2025-09-07 12:56:56,929 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-07 12:56:56,933 - INFO - All emails processed successfully.
+2025-09-07 13:09:45,925 - INFO - Support system initialized.
+2025-09-07 13:09:49,433 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-07 13:09:54,479 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: ryisyidykd
+2025-09-07 13:09:57,383 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-07 13:09:57,385 - INFO - All emails processed successfully.
+2025-09-07 13:10:26,288 - INFO - Support system initialized.
+2025-09-07 13:10:29,440 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-07 13:10:29,441 - INFO - No new emails to process.
+2025-09-07 13:10:39,706 - INFO - Support system initialized.
+2025-09-07 13:10:43,185 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-07 13:10:43,697 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: Re: Order not receive
+2025-09-07 13:10:47,329 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-07 13:10:47,329 - INFO - All emails processed successfully.
+2025-09-08 13:54:22,409 - INFO - Support system initialized.
+2025-09-08 13:54:25,584 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 13:54:28,203 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Test ticket a
+2025-09-08 13:54:33,273 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 13:54:33,275 - INFO - All emails processed successfully.
+2025-09-08 14:11:08,930 - INFO - Support system initialized.
+2025-09-08 14:11:11,838 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 14:11:14,079 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | What is ur prblm
+2025-09-08 14:11:17,334 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 14:11:17,335 - ERROR - Fatal error in main pipeline: name 'ack_sent' is not defined
+Traceback (most recent call last):
+  File "E:\support_system\main.py", line 51, in main
+    process_email(email_data)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "E:\support_system\main.py", line 34, in process_email
+    print(f"Checking ticket: email={sender}, subject={subject}, ack_sent={ack_sent}, status={status}")
+                                                                          ^^^^^^^^
+NameError: name 'ack_sent' is not defined
+2025-09-08 14:17:51,204 - INFO - Support system initialized.
+2025-09-08 14:17:54,344 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 14:17:56,102 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | general
+2025-09-08 14:17:58,694 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 14:17:58,697 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 14:17:58,698 - INFO - All emails processed successfully.
+2025-09-08 14:22:41,083 - INFO - Support system initialized.
+2025-09-08 14:22:43,841 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 14:22:44,386 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: general
+2025-09-08 14:22:46,902 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 14:22:46,905 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 14:22:46,906 - INFO - All emails processed successfully.
+2025-09-08 14:28:03,824 - INFO - Support system initialized.
+2025-09-08 14:28:06,999 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-09-08 14:28:07,295 - INFO - Ticket logged: sshamu46@gmail.com | general | Test Ticket A
+2025-09-08 14:28:10,349 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 14:28:10,359 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 14:28:10,723 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Test Ticket A
+2025-09-08 14:28:13,135 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 14:28:13,138 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 14:28:13,142 - INFO - All emails processed successfully.
+2025-09-08 14:30:48,227 - INFO - Support system initialized.
+2025-09-08 14:30:51,991 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 14:30:52,295 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: Ticket A
+2025-09-08 14:30:56,210 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 14:30:56,214 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 14:30:56,216 - INFO - All emails processed successfully.
+2025-09-08 14:57:24,123 - INFO - Support system initialized.
+2025-09-08 14:57:27,049 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 14:57:28,777 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: Test Ticket A
+2025-09-08 14:57:32,748 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 14:57:32,750 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 14:57:32,751 - INFO - All emails processed successfully.
+2025-09-08 15:03:50,027 - INFO - Support system initialized.
+2025-09-08 15:03:52,858 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:03:54,090 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: Test Ticket A
+2025-09-08 15:03:57,250 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 15:03:57,253 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 15:03:57,256 - INFO - All emails processed successfully.
+2025-09-08 15:25:02,140 - INFO - Support system initialized.
+2025-09-08 15:25:07,670 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:25:27,157 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Any update
+2025-09-08 15:25:33,317 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 15:25:33,321 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 15:25:33,323 - INFO - All emails processed successfully.
+2025-09-08 15:27:39,974 - INFO - Support system initialized.
+2025-09-08 15:27:43,384 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:27:46,556 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: Any update
+2025-09-08 15:27:49,420 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 15:27:49,423 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 15:27:49,426 - INFO - All emails processed successfully.
+2025-09-08 15:36:50,618 - INFO - Support system initialized.
+2025-09-08 15:36:54,525 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:36:59,776 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Test Ticket A
+2025-09-08 15:37:02,716 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 15:37:02,717 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 15:37:02,717 - INFO - All emails processed successfully.
+2025-09-08 15:41:38,369 - INFO - Support system initialized.
+2025-09-08 15:41:41,335 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:41:42,374 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: general
+2025-09-08 15:41:45,525 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 15:41:45,526 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 15:41:45,527 - INFO - All emails processed successfully.
+2025-09-08 15:42:35,719 - INFO - Support system initialized.
+2025-09-08 15:42:38,763 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:42:39,141 - INFO - Ticket logged: sheikmohamed0046@gmail.com | general | Re: general
+2025-09-08 15:42:41,623 - INFO -  Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-09-08 15:42:41,626 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue: general
+2025-09-08 15:42:41,628 - INFO - All emails processed successfully.
+2025-09-08 15:44:48,936 - INFO - Support system initialized.
+2025-09-08 15:44:53,044 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:44:56,070 - INFO - Ticket logged: sshamu46@gmail.com | general | Re: general
+2025-09-08 15:45:00,836 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 15:45:00,839 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 15:45:00,841 - INFO - All emails processed successfully.
+2025-09-08 15:51:25,058 - INFO - Support system initialized.
+2025-09-08 15:51:28,991 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 15:51:35,939 - INFO - Ticket logged: sshamu46@gmail.com | general | Test Ticket A
+2025-09-08 15:51:38,787 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 15:51:38,788 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 15:51:38,789 - INFO - All emails processed successfully.
+2025-09-08 16:26:42,682 - INFO - Support system initialized.
+2025-09-08 16:26:42,781 - CRITICAL - Failed to connect to email server | Error: [Errno 11001] getaddrinfo failed
+2025-09-08 16:26:42,955 - INFO - No new emails to process.
+2025-09-08 16:28:42,115 - INFO - Support system initialized.
+2025-09-08 16:28:42,161 - CRITICAL - Failed to connect to email server | Error: [Errno 11001] getaddrinfo failed
+2025-09-08 16:28:42,217 - INFO - No new emails to process.
+2025-09-08 16:33:11,881 - INFO - Support system initialized.
+2025-09-08 16:33:16,095 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 16:33:19,337 - INFO - Ticket logged: sshamu46@gmail.com | general | Re: Test Ticket A
+2025-09-08 16:33:24,703 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 16:33:24,706 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 16:33:24,708 - INFO - All emails processed successfully.
+2025-09-08 17:48:13,052 - INFO - Support system initialized.
+2025-09-08 17:48:18,498 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 17:48:25,555 - INFO - Ticket logged: sshamu46@gmail.com | general | Re: general
+2025-09-08 17:48:29,424 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 17:48:29,425 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 17:48:29,426 - INFO - All emails processed successfully.
+2025-09-08 19:17:52,932 - INFO - Support system initialized.
+2025-09-08 19:17:56,345 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-08 19:17:56,347 - INFO - No new emails to process.
+2025-09-08 19:32:22,227 - INFO - Support system initialized.
+2025-09-08 19:32:27,130 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-09-08 19:32:34,780 - INFO - Ticket logged: sshamu46@gmail.com | general | Test Ticket A
+2025-09-08 19:32:39,518 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 19:32:39,548 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 19:32:40,134 - INFO - Ticket logged: sshamu46@gmail.com | general | Testing
+2025-09-08 19:32:43,588 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 19:32:43,591 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 19:32:43,592 - INFO - All emails processed successfully.
+2025-09-08 19:34:52,661 - INFO - Support system initialized.
+2025-09-08 19:34:57,219 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-08 19:35:24,990 - INFO - Ticket logged: sshamu46@gmail.com | general | Re: general
+2025-09-08 19:35:30,855 - INFO -  Reply sent to sshamu46@gmail.com | Issue type: general
+2025-09-08 19:35:30,858 - INFO - Reply sent to sshamu46@gmail.com | Issue: general
+2025-09-08 19:35:30,994 - INFO - All emails processed successfully.
+2025-09-18 19:33:55,992 - INFO - Support system initialized.
+2025-09-18 19:33:59,370 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-18 19:36:28,516 - INFO - Support system initialized.
+2025-09-18 19:36:31,320 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-18 19:36:31,324 - INFO - No new emails to process.
+2025-09-20 18:59:40,595 - INFO - Support system initialized.
+2025-09-20 18:59:42,940 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-20 18:59:42,943 - INFO - No new emails to process.
+2025-09-20 19:00:41,420 - INFO - Support system initialized.
+2025-09-20 19:00:43,662 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-09-20 19:00:43,663 - INFO - No new emails to process.
+2025-09-20 19:01:02,247 - INFO - Support system initialized.
+2025-09-20 19:01:06,087 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-09-20 19:07:44,488 - INFO - Support system initialized.
+2025-09-20 19:07:47,713 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 09:31:10,065 - INFO - Support system initialized.
+2025-10-26 09:31:12,800 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 09:31:12,808 - INFO - No new emails to process.
+2025-10-26 09:32:02,177 - INFO - Support system initialized.
+2025-10-26 09:32:04,676 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 09:32:04,677 - INFO - No new emails to process.
+2025-10-26 09:32:11,631 - INFO - Support system initialized.
+2025-10-26 09:32:15,174 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 09:38:54,202 - INFO - Support system initialized.
+2025-10-26 09:38:55,672 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 09:38:55,690 - INFO - No new emails to process.
+2025-10-26 09:41:05,627 - INFO - Support system initialized.
+2025-10-26 09:41:07,077 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 09:41:07,082 - INFO - No new emails to process.
+2025-10-26 09:42:53,281 - INFO - Support system initialized.
+2025-10-26 09:42:54,790 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 09:42:54,838 - INFO - No new emails to process.
+2025-10-26 09:44:23,300 - INFO - Support system initialized.
+2025-10-26 09:44:24,775 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 09:44:24,776 - INFO - No new emails to process.
+2025-10-26 09:51:30,009 - INFO - Support system initialized.
+2025-10-26 09:51:31,391 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 09:51:31,394 - INFO - No new emails to process.
+2025-10-26 09:55:07,553 - INFO - Support system initialized.
+2025-10-26 09:55:08,914 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 09:55:08,960 - INFO - No new emails to process.
+2025-10-26 10:01:45,097 - INFO - Support system initialized.
+2025-10-26 10:01:46,711 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 10:01:46,759 - INFO - No new emails to process.
+2025-10-26 10:03:28,370 - INFO - Support system initialized.
+2025-10-26 10:03:29,478 - CRITICAL - Failed to connect to email server | Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-10-26 10:03:29,488 - INFO - No new emails to process.
+2025-10-26 10:14:56,080 - INFO - Support system initialized.
+2025-10-26 10:15:04,795 - INFO - fetch_emails() completed. 6 emails fetched.
+2025-10-26 10:20:34,383 - INFO - Support system initialized.
+2025-10-26 10:20:38,060 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 10:23:07,584 - INFO - Support system initialized.
+2025-10-26 10:23:10,676 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:09:11,807 - INFO - Support system initialized.
+2025-10-26 11:09:14,853 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:14:37,972 - INFO - Support system initialized.
+2025-10-26 11:14:40,248 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 11:14:40,249 - INFO - No new emails to process.
+2025-10-26 11:15:53,232 - INFO - Support system initialized.
+2025-10-26 11:15:55,382 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 11:15:55,440 - INFO - No new emails to process.
+2025-10-26 11:16:01,934 - INFO - Support system initialized.
+2025-10-26 11:16:04,757 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:31:11,965 - INFO - Support system initialized.
+2025-10-26 11:31:14,939 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:43:23,799 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:46:09,782 - INFO -  Support system initialized.
+2025-10-26 11:46:12,326 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 11:47:27,643 - INFO -  Support system initialized.
+2025-10-26 11:47:29,870 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 11:47:29,871 - INFO -  No new emails to process.
+2025-10-26 11:48:45,424 - INFO -  Support system initialized.
+2025-10-26 11:48:48,006 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:48:48,007 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:48:48,007 - INFO -  Processing email from sheikmohamed0046@gmail.com | Subject: Refund not receivedRefund not received
+2025-10-26 11:48:48,008 - INFO -  Classified issue: return_request
+2025-10-26 11:55:03,987 - INFO -  Support system initialized.
+2025-10-26 11:55:06,430 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 11:55:06,434 - INFO -  No new emails to process.
+2025-10-26 11:55:20,730 - INFO -  Support system initialized.
+2025-10-26 11:55:23,817 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:55:23,818 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 11:55:23,820 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: order dely
+2025-10-26 11:55:23,866 - INFO - Classified issue: general
+2025-10-26 13:02:57,423 - INFO -  Support system initialized.
+2025-10-26 13:03:01,463 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:03:01,464 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:03:01,466 - INFO - Processing email from cyberil2k@gmail.com | Subject: Refund not received
+2025-10-26 13:03:01,467 - INFO - Classified issue: return_request
+2025-10-26 13:18:16,971 - INFO -  Support system initialized.
+2025-10-26 13:18:19,475 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 13:18:19,482 - INFO -  No new emails to process.
+2025-10-26 13:18:42,819 - INFO -  Support system initialized.
+2025-10-26 13:18:45,319 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 13:18:45,325 - INFO -  No new emails to process.
+2025-10-26 13:18:48,693 - INFO -  Support system initialized.
+2025-10-26 13:18:51,598 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:18:51,600 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:28:26,615 - INFO -  Support system initialized.
+2025-10-26 13:28:29,281 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 13:28:29,286 - INFO -  No new emails to process.
+2025-10-26 13:28:33,684 - INFO -  Support system initialized.
+2025-10-26 13:28:36,834 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:28:36,835 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:48:33,673 - INFO -  Support system initialized.
+2025-10-26 13:48:36,690 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:48:36,691 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:54:31,921 - INFO -  Support system initialized.
+2025-10-26 13:54:35,402 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:54:35,405 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:58:11,363 - INFO -  Support system initialized.
+2025-10-26 13:58:14,622 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:58:14,624 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 13:58:30,638 - INFO -  Support system initialized.
+2025-10-26 13:58:33,118 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 13:58:33,122 - INFO -  No new emails to process.
+2025-10-26 14:01:27,631 - INFO -  Support system initialized.
+2025-10-26 14:01:30,785 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:01:30,787 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:24:53,102 - INFO -  Support system initialized.
+2025-10-26 14:24:57,807 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-10-26 14:24:57,808 - INFO -  fetch_emails() completed. 3 emails fetched.
+2025-10-26 14:24:57,809 - ERROR -  Fatal error in main pipeline: cannot access local variable 'subject' where it is not associated with a value
+Traceback (most recent call last):
+  File "E:\support_system\main.py", line 61, in main
+    process_email(email_data)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "E:\support_system\main.py", line 20, in process_email
+    subject = subject.strip() if subject else "Support Acknowledgment"
+                                 ^^^^^^^
+UnboundLocalError: cannot access local variable 'subject' where it is not associated with a value
+2025-10-26 14:28:41,916 - INFO -  Support system initialized.
+2025-10-26 14:28:44,835 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:28:44,836 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:41:29,911 - INFO -  Support system initialized.
+2025-10-26 14:41:34,208 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-10-26 14:41:34,209 - INFO -  fetch_emails() completed. 3 emails fetched.
+2025-10-26 14:42:45,746 - INFO -  Support system initialized.
+2025-10-26 14:42:47,758 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 14:42:47,761 - INFO -  No new emails to process.
+2025-10-26 14:43:50,166 - INFO - Support system initialized.
+2025-10-26 14:43:57,636 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-10-26 14:43:57,637 - INFO -  fetch_emails() completed. 2 emails fetched.
+2025-10-26 14:46:50,124 - INFO - Support system initialized.
+2025-10-26 14:46:52,926 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:46:52,935 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:46:52,937 - INFO - Processing email from cyberil2k@gmail.com | Subject: oder delay
+2025-10-26 14:46:52,940 - INFO - Classified as: order_delay
+2025-10-26 14:49:25,980 - INFO - Support system initialized.
+2025-10-26 14:49:29,006 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:49:29,008 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:49:29,008 - INFO - Processing email from cyberil2k@gmail.com | Subject: recived
+2025-10-26 14:49:29,009 - INFO - Classified as: general
+2025-10-26 14:52:01,712 - INFO - Support system initialized.
+2025-10-26 14:52:03,938 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-10-26 14:52:03,940 - INFO -  No new emails to process.
+2025-10-26 14:52:38,133 - INFO - Support system initialized.
+2025-10-26 14:52:41,281 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:52:41,282 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:52:41,284 - INFO - Processing email from cyberil2k@gmail.com | Subject: refund issues
+2025-10-26 14:52:41,285 - INFO - Classified as: payment_failed
+2025-10-26 14:54:58,973 - INFO - Support system initialized.
+2025-10-26 14:55:01,892 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:55:01,893 - INFO -  fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:55:01,893 - INFO - Processing email from cyberil2k@gmail.com | Subject: order issue
+2025-10-26 14:55:01,894 - INFO - Classified as: general
+2025-10-26 14:57:45,745 - INFO - Support system initialized.
+2025-10-26 14:57:48,579 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:57:48,582 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 14:57:48,583 - INFO - Processing email from cyberil2k@gmail.com | Subject: order issess
+2025-10-26 14:57:48,583 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-10-26 14:57:48,584 - INFO - Attempting to send email...
+2025-10-26 14:57:52,204 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-10-26 14:57:53,442 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: general
+2025-10-26 15:00:05,348 - INFO - Support system initialized.
+2025-10-26 15:00:08,155 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 15:00:08,442 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-10-26 15:00:08,443 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: order issess
+2025-10-26 15:00:08,444 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-10-26 15:00:08,445 - INFO - Attempting to send email...
+2025-10-26 15:00:12,605 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-10-26 15:00:13,854 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2025-10-26 15:01:40,389 - INFO - Support system initialized.
+2025-10-26 15:01:43,930 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-10-26 15:01:43,934 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-10-26 15:01:43,936 - INFO - Processing email from cyberil2k@gmail.com | Subject: order relaed issues
+2025-10-26 15:01:43,939 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-10-26 15:01:43,944 - INFO - Attempting to send email...
+2025-10-26 15:01:48,013 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-10-26 15:01:49,254 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: general
+2025-11-02 11:10:22,431 - INFO - Support system initialized.
+2025-11-02 11:10:26,739 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-11-02 11:10:26,740 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-11-02 11:10:26,742 - INFO - Processing email from cyberil2k@gmail.com | Subject: order related issues
+2025-11-02 11:10:26,743 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-11-02 11:10:26,745 - INFO - Attempting to send email...
+2025-11-02 11:10:30,405 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-11-02 11:10:31,644 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: order_delay
+2025-11-02 16:06:05,671 - INFO - Support system initialized.
+2025-11-02 16:06:10,873 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-02 16:06:10,874 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-02 16:06:10,874 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: order related issues
+2025-11-02 16:06:10,875 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:06:10,876 - INFO - Attempting to send email...
+2025-11-02 16:06:13,989 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:06:15,275 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2025-11-02 16:06:15,553 - INFO - package: mysql.connector.plugins
+2025-11-02 16:06:15,553 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:06:15,556 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:06:15,559 - INFO - package: mysql.connector.plugins
+2025-11-02 16:06:15,593 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:06:15,598 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:06:15,695 - INFO - Ticket logged: finalyearproject822@gmail.com | order_delay | Re: order related issues
+2025-11-02 16:06:15,697 - INFO - Ticket logged: finalyearproject822@gmail.com | order_delay | Re: order related issues
+2025-11-02 16:06:15,697 - INFO - Processing email from cyberil2k@gmail.com | Subject: Order Delay
+2025-11-02 16:06:15,698 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-11-02 16:06:15,707 - INFO - Attempting to send email...
+2025-11-02 16:06:19,983 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-11-02 16:06:21,243 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: order_delay
+2025-11-02 16:06:21,412 - INFO - Ticket logged: cyberil2k@gmail.com | order_delay | Order Delay
+2025-11-02 16:06:21,418 - INFO - Ticket logged: cyberil2k@gmail.com | order_delay | Order Delay
+2025-11-02 16:06:21,424 - INFO - Successfully processed all 2 emails.
+2025-11-02 16:14:04,367 - INFO - Support system initialized.
+2025-11-02 16:14:09,074 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-11-02 16:14:09,076 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-11-02 16:14:09,078 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: order related issues
+2025-11-02 16:14:09,121 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:14:09,123 - INFO - Attempting to send email...
+2025-11-02 16:14:13,066 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:14:14,402 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2025-11-02 16:14:14,717 - INFO - package: mysql.connector.plugins
+2025-11-02 16:14:14,718 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:14:14,739 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:14:14,742 - INFO - package: mysql.connector.plugins
+2025-11-02 16:14:14,751 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:14:14,753 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:14:14,853 - INFO - Ticket logged: finalyearproject822@gmail.com | order_delay | Re: Re: order related issues
+2025-11-02 16:14:14,855 - INFO - Ticket logged: finalyearproject822@gmail.com | order_delay | Re: Re: order related issues
+2025-11-02 16:14:14,856 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Order Delay
+2025-11-02 16:14:14,857 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:14:14,858 - INFO - Attempting to send email...
+2025-11-02 16:14:18,010 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:14:19,314 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2025-11-02 16:14:19,444 - INFO - Ticket logged: finalyearproject822@gmail.com | order_delay | Re: Order Delay
+2025-11-02 16:14:19,447 - INFO - Ticket logged: finalyearproject822@gmail.com | order_delay | Re: Order Delay
+2025-11-02 16:14:19,448 - INFO - Processing email from cyberil2k@gmail.com | Subject: order delay
+2025-11-02 16:14:19,449 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-11-02 16:14:19,450 - INFO - Attempting to send email...
+2025-11-02 16:14:23,512 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-11-02 16:14:25,048 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: order_delay
+2025-11-02 16:14:25,188 - INFO - Ticket logged: cyberil2k@gmail.com | order_delay | order delay
+2025-11-02 16:14:25,191 - INFO - Ticket logged: cyberil2k@gmail.com | order_delay | order delay
+2025-11-02 16:14:25,193 - INFO - Successfully processed all 3 emails.
+2025-11-02 16:18:18,688 - INFO - Support system initialized.
+2025-11-02 16:18:22,941 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:18:22,943 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:18:22,944 - INFO - Processing email from cyberil2k@gmail.com | Subject: account problem
+2025-11-02 16:18:22,945 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-11-02 16:18:22,947 - INFO - Attempting to send email...
+2025-11-02 16:18:25,892 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-11-02 16:18:27,138 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: general
+2025-11-02 16:18:28,023 - INFO - package: mysql.connector.plugins
+2025-11-02 16:18:28,525 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:18:28,646 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:18:28,651 - INFO - package: mysql.connector.plugins
+2025-11-02 16:18:28,655 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:18:28,656 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:18:28,670 - INFO - Ticket logged: cyberil2k@gmail.com | general | account problem
+2025-11-02 16:18:28,672 - INFO - Ticket logged: cyberil2k@gmail.com | general | account problem
+2025-11-02 16:18:28,673 - INFO - Successfully processed all 1 emails.
+2025-11-02 16:27:45,928 - INFO - Support system initialized.
+2025-11-02 16:27:49,106 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:27:49,113 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:27:49,115 - INFO - Processing email from cyberil2k@gmail.com | Subject: password issues
+2025-11-02 16:27:49,116 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-11-02 16:27:49,118 - INFO - Attempting to send email...
+2025-11-02 16:27:52,572 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-11-02 16:27:53,894 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: general
+2025-11-02 16:27:56,267 - INFO - package: mysql.connector.plugins
+2025-11-02 16:27:56,282 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:27:56,287 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:27:56,294 - INFO - package: mysql.connector.plugins
+2025-11-02 16:27:56,295 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:27:56,296 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:27:56,489 - WARNING - Duplicate ticket attempt from cyberil2k@gmail.com
+2025-11-02 16:27:56,507 - ERROR - Failed to log ticket for cyberil2k@gmail.com
+2025-11-02 16:27:56,569 - WARNING - Processed 0 out of 1 emails successfully.
+2025-11-02 16:32:49,406 - INFO - Support system initialized.
+2025-11-02 16:32:51,574 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-11-02 16:32:51,575 - INFO - No new emails to process.
+2025-11-02 16:32:55,600 - INFO - Support system initialized.
+2025-11-02 16:32:58,026 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-11-02 16:32:58,030 - INFO - No new emails to process.
+2025-11-02 16:33:01,521 - INFO - Support system initialized.
+2025-11-02 16:33:03,862 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-11-02 16:33:03,864 - INFO - No new emails to process.
+2025-11-02 16:33:44,035 - INFO - Support system initialized.
+2025-11-02 16:33:47,586 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:33:47,587 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:33:47,587 - INFO - Processing email from cyberil2k@gmail.com | Subject: Re: order delay
+2025-11-02 16:33:47,587 - INFO - Sending reply to: cyberil2k@gmail.com
+2025-11-02 16:33:47,588 - INFO - Attempting to send email...
+2025-11-02 16:33:51,273 - INFO - Email sent successfully to cyberil2k@gmail.com
+2025-11-02 16:33:52,502 - INFO - Reply sent to cyberil2k@gmail.com | Issue type: order_delay
+2025-11-02 16:33:52,905 - INFO - package: mysql.connector.plugins
+2025-11-02 16:33:52,906 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:33:52,909 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:33:52,911 - INFO - package: mysql.connector.plugins
+2025-11-02 16:33:52,913 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:33:52,915 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:33:52,937 - WARNING - Duplicate ticket attempt from cyberil2k@gmail.com
+2025-11-02 16:33:52,943 - ERROR - Failed to log ticket for cyberil2k@gmail.com
+2025-11-02 16:33:52,945 - WARNING - Processed 0 out of 1 emails successfully.
+2025-11-02 16:35:35,575 - INFO - Support system initialized.
+2025-11-02 16:35:39,304 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-02 16:35:39,307 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-02 16:35:39,308 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: order delay
+2025-11-02 16:35:39,412 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:35:39,414 - INFO - Attempting to send email...
+2025-11-02 16:35:42,274 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:35:43,732 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2025-11-02 16:35:44,334 - INFO - package: mysql.connector.plugins
+2025-11-02 16:35:44,337 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:35:44,344 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:35:44,351 - INFO - package: mysql.connector.plugins
+2025-11-02 16:35:44,355 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:35:44,356 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:35:44,573 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-02 16:35:44,584 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-02 16:35:44,588 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: payment issues
+2025-11-02 16:35:44,592 - INFO - Sending reply to: sheikmohamed0046@gmail.com
+2025-11-02 16:35:44,603 - INFO - Attempting to send email...
+2025-11-02 16:35:48,047 - INFO - Email sent successfully to sheikmohamed0046@gmail.com
+2025-11-02 16:35:49,340 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: payment_failed
+2025-11-02 16:35:49,564 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | payment issues
+2025-11-02 16:35:49,566 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | payment issues
+2025-11-02 16:35:49,567 - WARNING - Processed 1 out of 2 emails successfully.
+2025-11-02 16:36:40,034 - INFO - Support system initialized.
+2025-11-02 16:36:43,875 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-02 16:36:43,877 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-02 16:36:43,878 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: order delay
+2025-11-02 16:36:43,879 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:36:43,881 - INFO - Attempting to send email...
+2025-11-02 16:36:46,622 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:36:47,843 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2025-11-02 16:36:48,041 - INFO - package: mysql.connector.plugins
+2025-11-02 16:36:48,043 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:36:48,045 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:36:48,046 - INFO - package: mysql.connector.plugins
+2025-11-02 16:36:48,047 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:36:48,049 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:36:48,058 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-02 16:36:48,060 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-02 16:36:48,069 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: payment issues
+2025-11-02 16:36:48,072 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:36:48,073 - INFO - Attempting to send email...
+2025-11-02 16:36:51,496 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:36:52,930 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2025-11-02 16:36:53,091 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-02 16:36:53,093 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-02 16:36:53,094 - WARNING - Processed 0 out of 2 emails successfully.
+2025-11-02 16:38:13,497 - INFO - Support system initialized.
+2025-11-02 16:38:18,166 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-11-02 16:38:18,169 - INFO - fetch_emails() completed. 3 emails fetched.
+2025-11-02 16:38:18,171 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: order issue
+2025-11-02 16:38:18,173 - INFO - Sending reply to: sheikmohamed0046@gmail.com
+2025-11-02 16:38:18,177 - INFO - Attempting to send email...
+2025-11-02 16:38:21,197 - INFO - Email sent successfully to sheikmohamed0046@gmail.com
+2025-11-02 16:38:22,439 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2025-11-02 16:38:22,699 - INFO - package: mysql.connector.plugins
+2025-11-02 16:38:22,701 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:38:22,704 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:38:22,705 - INFO - package: mysql.connector.plugins
+2025-11-02 16:38:22,708 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:38:22,711 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:38:22,724 - WARNING - Duplicate ticket attempt from sheikmohamed0046@gmail.com
+2025-11-02 16:38:22,726 - ERROR - Failed to log ticket for sheikmohamed0046@gmail.com
+2025-11-02 16:38:22,734 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Re: order delay
+2025-11-02 16:38:22,736 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:38:22,737 - INFO - Attempting to send email...
+2025-11-02 16:38:25,498 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:38:26,741 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2025-11-02 16:38:26,877 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-02 16:38:26,880 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-02 16:38:26,880 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: payment issues
+2025-11-02 16:38:26,883 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-02 16:38:26,884 - INFO - Attempting to send email...
+2025-11-02 16:38:30,823 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-02 16:38:32,154 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2025-11-02 16:38:32,303 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-02 16:38:32,304 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-02 16:38:32,305 - WARNING - Processed 0 out of 3 emails successfully.
+2025-11-02 16:40:32,702 - INFO - Support system initialized.
+2025-11-02 16:40:35,341 - INFO - fetch_emails() completed. 0 emails fetched.
+2025-11-02 16:40:35,347 - INFO - No new emails to process.
+2025-11-02 16:40:47,219 - INFO - Support system initialized.
+2025-11-02 16:40:50,153 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:40:50,154 - INFO - fetch_emails() completed. 1 emails fetched.
+2025-11-02 16:40:50,155 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: payment issues
+2025-11-02 16:40:50,156 - INFO - Sending reply to: sheikmohamed0046@gmail.com
+2025-11-02 16:40:50,158 - INFO - Attempting to send email...
+2025-11-02 16:40:53,363 - INFO - Email sent successfully to sheikmohamed0046@gmail.com
+2025-11-02 16:40:54,697 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: payment_failed
+2025-11-02 16:40:55,069 - INFO - package: mysql.connector.plugins
+2025-11-02 16:40:55,070 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:40:55,073 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:40:55,074 - INFO - package: mysql.connector.plugins
+2025-11-02 16:40:55,075 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:40:55,075 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:40:55,096 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | payment issues
+2025-11-02 16:40:55,099 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | payment issues
+2025-11-02 16:40:55,101 - INFO - Successfully processed all 1 emails.
+2025-11-03 09:30:38,676 - INFO - Support system initialized.
+2025-11-03 09:30:42,791 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-03 09:30:42,894 - INFO - fetch_emails() completed. 2 emails fetched.
+2025-11-03 09:30:42,897 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: payment issues
+2025-11-03 09:30:42,900 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-03 09:30:42,902 - INFO - Attempting to send email...
+2025-11-03 09:30:46,135 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-03 09:30:47,467 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2025-11-03 09:30:47,962 - INFO - package: mysql.connector.plugins
+2025-11-03 09:30:47,963 - INFO - plugin_name: mysql_native_password
+2025-11-03 09:30:47,967 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-03 09:30:47,972 - INFO - package: mysql.connector.plugins
+2025-11-03 09:30:47,985 - INFO - plugin_name: mysql_native_password
+2025-11-03 09:30:48,009 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-03 09:30:48,055 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-03 09:30:48,064 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-03 09:30:48,065 - INFO - Processing email from snekhasivakumar490@gmail.com | Subject: Issue based on the product quality
+2025-11-03 09:30:48,067 - INFO - Sending reply to: snekhasivakumar490@gmail.com
+2025-11-03 09:30:48,068 - INFO - Attempting to send email...
+2025-11-03 09:30:51,255 - INFO - Email sent successfully to snekhasivakumar490@gmail.com
+2025-11-03 09:30:52,490 - INFO - Reply sent to snekhasivakumar490@gmail.com | Issue type: general
+2025-11-03 09:30:52,660 - INFO - Ticket logged: snekhasivakumar490@gmail.com | general | Issue based on the product quality
+2025-11-03 09:30:52,665 - INFO - Ticket logged: snekhasivakumar490@gmail.com | general | Issue based on the product quality
+2025-11-03 09:30:52,671 - WARNING - Processed 1 out of 2 emails successfully.
+2025-11-03 09:36:33,332 - INFO - Support system initialized.
+2025-11-03 09:36:38,662 - INFO - fetch_emails() completed. 4 emails fetched.
+2025-11-03 09:36:38,666 - INFO - fetch_emails() completed. 4 emails fetched.
+2025-11-03 09:36:38,667 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: payment issues
+2025-11-03 09:36:38,668 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-03 09:36:38,670 - INFO - Attempting to send email...
+2025-11-03 09:36:43,511 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-03 09:36:44,840 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2025-11-03 09:36:45,058 - INFO - package: mysql.connector.plugins
+2025-11-03 09:36:45,059 - INFO - plugin_name: mysql_native_password
+2025-11-03 09:36:45,062 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-03 09:36:45,066 - INFO - package: mysql.connector.plugins
+2025-11-03 09:36:45,072 - INFO - plugin_name: mysql_native_password
+2025-11-03 09:36:45,073 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-03 09:36:45,102 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-03 09:36:45,105 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-03 09:36:45,110 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Issue based on the product quality
+2025-11-03 09:36:45,112 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-03 09:36:45,115 - INFO - Attempting to send email...
+2025-11-03 09:36:49,037 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-03 09:36:50,369 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2025-11-03 09:36:50,507 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-03 09:36:50,511 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-03 09:36:50,519 - INFO - Processing email from snekhasivakumar490@gmail.com | Subject: Re: Issue based on the product quality
+2025-11-03 09:36:50,526 - INFO - Sending reply to: snekhasivakumar490@gmail.com
+2025-11-03 09:36:50,528 - INFO - Attempting to send email...
+2025-11-03 09:36:54,055 - INFO - Email sent successfully to snekhasivakumar490@gmail.com
+2025-11-03 09:36:55,275 - INFO - Reply sent to snekhasivakumar490@gmail.com | Issue type: general
+2025-11-03 09:36:55,389 - WARNING - Duplicate ticket attempt from snekhasivakumar490@gmail.com
+2025-11-03 09:36:55,391 - ERROR - Failed to log ticket for snekhasivakumar490@gmail.com
+2025-11-03 09:36:55,595 - INFO - Sending reply to: snekhasivakumar490@gmail.com
+2025-11-03 09:36:55,597 - INFO - Attempting to send email...
+2025-11-03 09:36:59,892 - INFO - Email sent successfully to snekhasivakumar490@gmail.com
+2025-11-03 09:37:01,162 - INFO - Reply sent to snekhasivakumar490@gmail.com | Issue type: payment_failed
+2025-11-03 09:37:01,310 - WARNING - Duplicate ticket attempt from snekhasivakumar490@gmail.com
+2025-11-03 09:37:01,312 - ERROR - Failed to log ticket for snekhasivakumar490@gmail.com
+2025-11-03 09:37:01,314 - WARNING - Processed 0 out of 4 emails successfully.
+2025-11-03 09:38:16,888 - INFO - Support system initialized.
+2025-11-03 09:38:23,245 - INFO - fetch_emails() completed. 5 emails fetched.
+2025-11-03 09:38:23,247 - INFO - fetch_emails() completed. 5 emails fetched.
+2025-11-03 09:38:23,248 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: payment issues
+2025-11-03 09:38:23,249 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-03 09:38:23,251 - INFO - Attempting to send email...
+2025-11-03 09:38:27,136 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-03 09:38:28,468 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2025-11-03 09:38:28,650 - INFO - package: mysql.connector.plugins
+2025-11-03 09:38:28,651 - INFO - plugin_name: mysql_native_password
+2025-11-03 09:38:28,653 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-03 09:38:28,655 - INFO - package: mysql.connector.plugins
+2025-11-03 09:38:28,655 - INFO - plugin_name: mysql_native_password
+2025-11-03 09:38:28,656 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-03 09:38:28,668 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-03 09:38:28,674 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-03 09:38:28,678 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Issue based on the product quality
+2025-11-03 09:38:28,680 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-03 09:38:28,685 - INFO - Attempting to send email...
+2025-11-03 09:38:32,665 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-03 09:38:33,997 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2025-11-03 09:38:34,106 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-03 09:38:34,108 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-03 09:38:34,108 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Issue based on the product quality
+2025-11-03 09:38:34,109 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-03 09:38:34,112 - INFO - Attempting to send email...
+2025-11-03 09:38:37,376 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-03 09:38:38,707 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2025-11-03 09:38:38,848 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-03 09:38:38,850 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-03 09:38:38,876 - INFO - Sending reply to: finalyearproject822@gmail.com
+2025-11-03 09:38:38,876 - INFO - Attempting to send email...
+2025-11-03 09:38:42,291 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2025-11-03 09:38:43,622 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2025-11-03 09:38:43,759 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2025-11-03 09:38:43,816 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2025-11-03 09:38:44,205 - INFO - Processing email from snekhasivakumar490@gmail.com | Subject: Re: Re: Issue based on the product quality
+2025-11-03 09:38:44,230 - INFO - Sending reply to: snekhasivakumar490@gmail.com
+2025-11-03 09:38:44,258 - INFO - Attempting to send email...
+2025-11-03 09:38:47,411 - INFO - Email sent successfully to snekhasivakumar490@gmail.com
+2025-11-03 09:38:48,743 - INFO - Reply sent to snekhasivakumar490@gmail.com | Issue type: general
+2025-11-03 09:38:49,206 - INFO - Ticket logged: snekhasivakumar490@gmail.com | general | Re: Re: Issue based on the product quality
+2025-11-03 09:38:49,224 - INFO - Ticket logged: snekhasivakumar490@gmail.com | general | Re: Re: Issue based on the product quality
+2025-11-03 09:38:49,311 - WARNING - Processed 1 out of 5 emails successfully.
+2026-01-03 14:53:59,731 - INFO - Support system initialized.
+2026-01-03 14:54:07,973 - INFO - fetch_emails() completed. 7 emails fetched.
+2026-01-03 14:54:07,975 - INFO - fetch_emails() completed. 7 emails fetched.
+2026-01-03 14:54:07,976 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Re: payment issues
+2026-01-03 14:54:07,976 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-03 14:54:07,978 - INFO - Attempting to send email...
+2026-01-03 14:54:11,229 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-03 14:54:12,468 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2026-01-03 14:54:13,160 - INFO - package: mysql.connector.plugins
+2026-01-03 14:54:13,162 - INFO - plugin_name: mysql_native_password
+2026-01-03 14:54:13,264 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-03 14:54:13,270 - INFO - package: mysql.connector.plugins
+2026-01-03 14:54:13,271 - INFO - plugin_name: mysql_native_password
+2026-01-03 14:54:13,274 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-03 14:54:13,795 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-03 14:54:13,804 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-03 14:54:13,818 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Issue based on the product quality
+2026-01-03 14:54:13,854 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-03 14:54:13,855 - INFO - Attempting to send email...
+2026-01-03 14:54:17,176 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-03 14:54:18,423 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-03 14:54:18,576 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-03 14:54:18,581 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-03 14:54:18,586 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Issue based on the product quality
+2026-01-03 14:54:18,588 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-03 14:54:18,599 - INFO - Attempting to send email...
+2026-01-03 14:54:22,607 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-03 14:54:23,886 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-03 14:54:24,039 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-03 14:54:24,041 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-03 14:54:24,100 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-03 14:54:24,107 - INFO - Attempting to send email...
+2026-01-03 14:54:27,095 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-03 14:54:28,363 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2026-01-03 14:54:28,500 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-03 14:54:28,614 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-03 14:54:28,634 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Issue based on the product quality
+2026-01-03 14:54:28,638 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-03 14:54:28,645 - INFO - Attempting to send email...
+2026-01-03 14:54:31,381 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-03 14:54:32,849 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-03 14:54:32,973 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-03 14:54:32,975 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-03 14:54:32,975 - INFO - Processing email from no-reply@youtube.com | Subject: Annual reminder about YouTube’s Terms of Service, Community Guidelines and Privacy Policy
+2026-01-03 14:54:32,982 - INFO - Sending reply to: no-reply@youtube.com
+2026-01-03 14:54:32,982 - INFO - Attempting to send email...
+2026-01-03 14:54:35,728 - INFO - Email sent successfully to no-reply@youtube.com
+2026-01-03 14:54:37,003 - INFO - Reply sent to no-reply@youtube.com | Issue type: general
+2026-01-03 14:54:37,266 - INFO - Ticket logged: no-reply@youtube.com | general | Annual reminder about YouTube’s Terms of Service, Community Guidelines and Privacy Policy
+2026-01-03 14:54:37,268 - INFO - Ticket logged: no-reply@youtube.com | general | Annual reminder about YouTube’s Terms of Service, Community Guidelines and Privacy Policy
+2026-01-03 14:54:37,269 - INFO - Processing email from noreply@email.openai.com | Subject: Third-party security incident
+2026-01-03 14:54:37,269 - INFO - Sending reply to: noreply@email.openai.com
+2026-01-03 14:54:37,270 - INFO - Attempting to send email...
+2026-01-03 14:54:40,521 - INFO - Email sent successfully to noreply@email.openai.com
+2026-01-03 14:54:41,802 - INFO - Reply sent to noreply@email.openai.com | Issue type: order_delay
+2026-01-03 14:54:41,942 - INFO - Ticket logged: noreply@email.openai.com | order_delay | Third-party security incident
+2026-01-03 14:54:41,952 - INFO - Ticket logged: noreply@email.openai.com | order_delay | Third-party security incident
+2026-01-03 14:54:41,959 - WARNING - Processed 2 out of 7 emails successfully.
+2026-01-05 19:24:50,897 - INFO - Support system initialized.
+2026-01-05 19:25:02,718 - INFO - fetch_emails() completed. 9 emails fetched.
+2026-01-05 19:25:02,720 - INFO - fetch_emails() completed. 9 emails fetched.
+2026-01-05 19:25:02,720 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Re: Re: payment issues
+2026-01-05 19:25:02,721 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-05 19:25:02,722 - INFO - Attempting to send email...
+2026-01-05 19:25:06,517 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-05 19:25:07,755 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2026-01-05 19:25:08,884 - INFO - package: mysql.connector.plugins
+2026-01-05 19:25:08,887 - INFO - plugin_name: mysql_native_password
+2026-01-05 19:25:08,916 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-05 19:25:08,944 - INFO - package: mysql.connector.plugins
+2026-01-05 19:25:08,944 - INFO - plugin_name: mysql_native_password
+2026-01-05 19:25:08,945 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-05 19:25:09,263 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-05 19:25:09,268 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-05 19:25:09,268 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Re: Issue based on the product quality
+2026-01-05 19:25:09,269 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-05 19:25:09,270 - INFO - Attempting to send email...
+2026-01-05 19:25:12,661 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-05 19:25:14,200 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-05 19:25:14,367 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-05 19:25:14,372 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-05 19:25:14,375 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Re: Issue based on the product quality
+2026-01-05 19:25:14,375 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-05 19:25:14,381 - INFO - Attempting to send email...
+2026-01-05 19:25:18,674 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-05 19:25:20,138 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-05 19:25:20,393 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-05 19:25:20,414 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-05 19:25:20,551 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-05 19:25:20,552 - INFO - Attempting to send email...
+2026-01-05 19:25:25,151 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-05 19:25:26,399 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2026-01-05 19:25:26,528 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-05 19:25:26,530 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-05 19:25:26,532 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Re: Issue based on the product quality
+2026-01-05 19:25:26,542 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-05 19:25:26,543 - INFO - Attempting to send email...
+2026-01-05 19:25:30,179 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-05 19:25:31,400 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-05 19:25:31,641 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-05 19:25:31,645 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-05 19:25:31,650 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Annual reminder about YouTube’s Terms of Service, Community Guidelines and Privacy Policy
+2026-01-05 19:25:31,661 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-05 19:25:31,665 - INFO - Attempting to send email...
+2026-01-05 19:25:35,497 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-05 19:25:36,723 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-05 19:25:36,906 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-05 19:25:36,908 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-05 19:25:36,909 - INFO - Processing email from mailer-daemon@googlemail.com | Subject: Delivery Status Notification (Failure)
+2026-01-05 19:25:36,910 - INFO - Sending reply to: mailer-daemon@googlemail.com
+2026-01-05 19:25:36,911 - INFO - Attempting to send email...
+2026-01-05 19:25:41,347 - INFO - Email sent successfully to mailer-daemon@googlemail.com
+2026-01-05 19:25:42,623 - INFO - Reply sent to mailer-daemon@googlemail.com | Issue type: general
+2026-01-05 19:25:42,902 - INFO - Ticket logged: mailer-daemon@googlemail.com | general | Delivery Status Notification (Failure)
+2026-01-05 19:25:42,904 - INFO - Ticket logged: mailer-daemon@googlemail.com | general | Delivery Status Notification (Failure)
+2026-01-05 19:25:42,905 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Third-party security incident
+2026-01-05 19:25:42,906 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-05 19:25:42,906 - INFO - Attempting to send email...
+2026-01-05 19:25:46,349 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-05 19:25:47,582 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2026-01-05 19:25:47,733 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-05 19:25:47,734 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-05 19:25:47,736 - INFO - Processing email from mailer-daemon@googlemail.com | Subject: Delivery Status Notification (Failure)
+2026-01-05 19:25:47,738 - INFO - Sending reply to: mailer-daemon@googlemail.com
+2026-01-05 19:25:47,744 - INFO - Attempting to send email...
+2026-01-05 19:25:51,981 - INFO - Email sent successfully to mailer-daemon@googlemail.com
+2026-01-05 19:25:53,197 - INFO - Reply sent to mailer-daemon@googlemail.com | Issue type: general
+2026-01-05 19:25:53,355 - WARNING - Duplicate ticket attempt from mailer-daemon@googlemail.com
+2026-01-05 19:25:53,356 - ERROR - Failed to log ticket for mailer-daemon@googlemail.com
+2026-01-05 19:25:53,358 - WARNING - Processed 1 out of 9 emails successfully.
+2026-01-06 09:08:25,105 - INFO - Support system initialized.
+2026-01-06 09:08:29,298 - INFO - fetch_emails() completed. 2 emails fetched.
+2026-01-06 09:08:29,299 - INFO - fetch_emails() completed. 2 emails fetched.
+2026-01-06 09:08:29,300 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Third-party security incident
+2026-01-06 09:08:29,300 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-06 09:08:29,300 - INFO - Attempting to send email...
+2026-01-06 09:08:32,720 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-06 09:08:33,932 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: order_delay
+2026-01-06 09:08:34,568 - INFO - package: mysql.connector.plugins
+2026-01-06 09:08:34,569 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:08:34,572 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:08:34,583 - INFO - package: mysql.connector.plugins
+2026-01-06 09:08:34,584 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:08:34,584 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:08:34,864 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-06 09:08:34,869 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-06 09:08:34,871 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Delivery Status Notification (Failure)
+2026-01-06 09:08:34,872 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-06 09:08:34,873 - INFO - Attempting to send email...
+2026-01-06 09:08:37,590 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-06 09:08:38,851 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-06 09:08:39,032 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-06 09:08:39,034 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-06 09:08:39,037 - WARNING - Processed 0 out of 2 emails successfully.
+2026-01-06 09:11:22,252 - INFO - Support system initialized.
+2026-01-06 09:11:25,465 - INFO - fetch_emails() completed. 1 emails fetched.
+2026-01-06 09:11:25,466 - INFO - fetch_emails() completed. 1 emails fetched.
+2026-01-06 09:11:25,469 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: Order issue
+2026-01-06 09:11:25,470 - INFO - Sending reply to: sheikmohamed0046@gmail.com
+2026-01-06 09:11:25,472 - INFO - Attempting to send email...
+2026-01-06 09:11:28,612 - INFO - Email sent successfully to sheikmohamed0046@gmail.com
+2026-01-06 09:11:29,889 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: general
+2026-01-06 09:11:30,330 - INFO - package: mysql.connector.plugins
+2026-01-06 09:11:30,331 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:11:30,334 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:11:30,337 - INFO - package: mysql.connector.plugins
+2026-01-06 09:11:30,337 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:11:30,337 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:11:30,349 - WARNING - Duplicate ticket attempt from sheikmohamed0046@gmail.com
+2026-01-06 09:11:30,351 - ERROR - Failed to log ticket for sheikmohamed0046@gmail.com
+2026-01-06 09:11:30,352 - WARNING - Processed 0 out of 1 emails successfully.

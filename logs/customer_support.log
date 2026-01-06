@@ -1,0 +1,266 @@
+2025-11-02 15:15:24,623 - INFO - package: mysql.connector.plugins
+2025-11-02 15:15:24,729 - INFO - plugin_name: mysql_native_password
+2025-11-02 15:15:24,733 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 15:15:24,736 - INFO - package: mysql.connector.plugins
+2025-11-02 15:15:24,736 - INFO - plugin_name: mysql_native_password
+2025-11-02 15:15:24,737 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 15:15:25,025 - INFO - 127.0.0.1 - - [02/Nov/2025 15:15:25] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 15:15:25,797 - INFO - 127.0.0.1 - - [02/Nov/2025 15:15:25] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 15:15:25,933 - INFO - 127.0.0.1 - - [02/Nov/2025 15:15:25] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-02 15:15:27,054 - INFO - 127.0.0.1 - - [02/Nov/2025 15:15:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-02 16:06:36,151 - INFO - 127.0.0.1 - - [02/Nov/2025 16:06:36] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:06:36,361 - INFO - 127.0.0.1 - - [02/Nov/2025 16:06:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:06:36,441 - INFO - 127.0.0.1 - - [02/Nov/2025 16:06:36] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:06:55,631 - INFO - 127.0.0.1 - - [02/Nov/2025 16:06:55] "GET /ticket/2 HTTP/1.1" 200 -
+2025-11-02 16:07:12,160 - INFO - \u2705 Email sent to cyberil2k@gmail.com
+2025-11-02 16:07:12,318 - INFO - Reply logged for ticket 2
+2025-11-02 16:07:12,336 - INFO - 127.0.0.1 - - [02/Nov/2025 16:07:12] "[32mPOST /admin_reply/2 HTTP/1.1[0m" 302 -
+2025-11-02 16:07:15,593 - INFO - \u2705 Email sent to cyberil2k@gmail.com
+2025-11-02 16:07:15,698 - INFO - Reply logged for ticket 2
+2025-11-02 16:07:15,701 - INFO - 127.0.0.1 - - [02/Nov/2025 16:07:15] "[32mPOST /admin_reply/2 HTTP/1.1[0m" 302 -
+2025-11-02 16:07:16,104 - INFO - 127.0.0.1 - - [02/Nov/2025 16:07:16] "GET /ticket/2 HTTP/1.1" 200 -
+2025-11-02 16:08:11,401 - INFO - Ticket 2 updated to status: resolved
+2025-11-02 16:08:11,404 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:11] "[32mPOST /update_status/2 HTTP/1.1[0m" 302 -
+2025-11-02 16:08:11,928 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:11] "GET /ticket/2 HTTP/1.1" 200 -
+2025-11-02 16:08:20,249 - INFO - Deleted ticket: 2
+2025-11-02 16:08:20,252 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:20] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2025-11-02 16:08:20,413 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:20] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:08:20,536 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:20] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:08:20,543 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:08:26,765 - INFO - Deleted ticket: 1
+2025-11-02 16:08:26,779 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:26] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2025-11-02 16:08:26,932 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:26] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:08:27,050 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:08:27,067 - INFO - 127.0.0.1 - - [02/Nov/2025 16:08:27] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:11:05,386 - INFO - 127.0.0.1 - - [02/Nov/2025 16:11:05] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:11:05,551 - INFO - 127.0.0.1 - - [02/Nov/2025 16:11:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:11:05,575 - INFO - 127.0.0.1 - - [02/Nov/2025 16:11:05] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:14:44,972 - INFO - 127.0.0.1 - - [02/Nov/2025 16:14:44] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:14:45,044 - INFO - 127.0.0.1 - - [02/Nov/2025 16:14:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:14:45,137 - INFO - 127.0.0.1 - - [02/Nov/2025 16:14:45] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:16:51,948 - INFO - Ticket 5 updated to status: resolved
+2025-11-02 16:16:51,964 - INFO - 127.0.0.1 - - [02/Nov/2025 16:16:51] "[32mPOST /update_status/5 HTTP/1.1[0m" 302 -
+2025-11-02 16:16:54,110 - INFO - 127.0.0.1 - - [02/Nov/2025 16:16:54] "GET /ticket/5 HTTP/1.1" 200 -
+2025-11-02 16:16:59,708 - INFO - 127.0.0.1 - - [02/Nov/2025 16:16:59] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:16:59,936 - INFO - 127.0.0.1 - - [02/Nov/2025 16:16:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:16:59,956 - INFO - 127.0.0.1 - - [02/Nov/2025 16:16:59] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:18:56,888 - INFO - 127.0.0.1 - - [02/Nov/2025 16:18:56] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:18:56,966 - INFO - 127.0.0.1 - - [02/Nov/2025 16:18:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:18:57,097 - INFO - 127.0.0.1 - - [02/Nov/2025 16:18:57] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:19:08,476 - INFO - 127.0.0.1 - - [02/Nov/2025 16:19:08] "GET /ticket/6 HTTP/1.1" 200 -
+2025-11-02 16:24:25,734 - INFO -  * Detected change in 'E:\\support_system\\ticket_logger.py', reloading
+2025-11-02 16:28:14,399 - INFO - package: mysql.connector.plugins
+2025-11-02 16:28:14,401 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:28:14,406 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:28:14,410 - INFO - package: mysql.connector.plugins
+2025-11-02 16:28:14,413 - INFO - plugin_name: mysql_native_password
+2025-11-02 16:28:14,417 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-11-02 16:28:16,436 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:16] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-11-02 16:28:17,309 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:17] "GET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-11-02 16:28:17,395 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:17] "GET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-11-02 16:28:18,227 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:18] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=mmnCFFdRJcbJAaD9VDVf HTTP/1.1" 200 -
+2025-11-02 16:28:18,301 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:18] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-11-02 16:28:25,547 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:25] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-11-02 16:28:25,855 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:25] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:28:26,097 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:26] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-11-02 16:28:26,302 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:26] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=mmnCFFdRJcbJAaD9VDVf HTTP/1.1[0m" 304 -
+2025-11-02 16:28:26,389 - INFO - 127.0.0.1 - - [02/Nov/2025 16:28:26] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-11-02 16:29:55,421 - INFO - 127.0.0.1 - - [02/Nov/2025 16:29:55] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:29:55,568 - INFO - 127.0.0.1 - - [02/Nov/2025 16:29:55] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:29:55,695 - INFO - 127.0.0.1 - - [02/Nov/2025 16:29:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:30:01,347 - INFO - 127.0.0.1 - - [02/Nov/2025 16:30:01] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:30:01,404 - INFO - 127.0.0.1 - - [02/Nov/2025 16:30:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:30:01,827 - INFO - 127.0.0.1 - - [02/Nov/2025 16:30:01] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:31:20,007 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:20] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:31:20,083 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:20] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:31:20,084 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:31:29,043 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:29] "GET /dashboard?category=feature_request HTTP/1.1" 200 -
+2025-11-02 16:31:29,332 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:31:29,355 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:29] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:31:35,104 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:35] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:31:35,350 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:31:35,392 - INFO - 127.0.0.1 - - [02/Nov/2025 16:31:35] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:34:05,512 - INFO - 127.0.0.1 - - [02/Nov/2025 16:34:05] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:34:05,576 - INFO - 127.0.0.1 - - [02/Nov/2025 16:34:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:34:05,628 - INFO - 127.0.0.1 - - [02/Nov/2025 16:34:05] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:34:13,867 - INFO - 127.0.0.1 - - [02/Nov/2025 16:34:13] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:34:14,031 - INFO - 127.0.0.1 - - [02/Nov/2025 16:34:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:34:14,055 - INFO - 127.0.0.1 - - [02/Nov/2025 16:34:14] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:35:59,282 - INFO - 127.0.0.1 - - [02/Nov/2025 16:35:59] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:35:59,405 - INFO - 127.0.0.1 - - [02/Nov/2025 16:35:59] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:35:59,618 - INFO - 127.0.0.1 - - [02/Nov/2025 16:35:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:37:06,306 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:06] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:37:06,418 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:37:06,432 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:06] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:37:10,555 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:10] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:37:10,648 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:37:10,667 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:10] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:37:17,352 - INFO - Ticket 7 updated to status: resolved
+2025-11-02 16:37:17,365 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:17] "[32mPOST /update_status/7 HTTP/1.1[0m" 302 -
+2025-11-02 16:37:18,317 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:18] "GET /ticket/7 HTTP/1.1" 200 -
+2025-11-02 16:37:26,991 - INFO - Ticket 7 updated to status: closed
+2025-11-02 16:37:26,998 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:26] "[32mPOST /update_status/7 HTTP/1.1[0m" 302 -
+2025-11-02 16:37:27,614 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:27] "GET /ticket/7 HTTP/1.1" 200 -
+2025-11-02 16:37:29,468 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:29] "GET /ticket/7 HTTP/1.1" 200 -
+2025-11-02 16:37:34,304 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:34] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:37:34,693 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:37:34,703 - INFO - 127.0.0.1 - - [02/Nov/2025 16:37:34] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:38:46,261 - INFO - 127.0.0.1 - - [02/Nov/2025 16:38:46] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:38:46,383 - INFO - 127.0.0.1 - - [02/Nov/2025 16:38:46] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:38:46,431 - INFO - 127.0.0.1 - - [02/Nov/2025 16:38:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:38:52,119 - INFO - 127.0.0.1 - - [02/Nov/2025 16:38:52] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:38:52,273 - INFO - 127.0.0.1 - - [02/Nov/2025 16:38:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:38:52,282 - INFO - 127.0.0.1 - - [02/Nov/2025 16:38:52] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:39:09,406 - INFO - 127.0.0.1 - - [02/Nov/2025 16:39:09] "GET /dashboard?category= HTTP/1.1" 200 -
+2025-11-02 16:39:09,458 - INFO - 127.0.0.1 - - [02/Nov/2025 16:39:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:39:09,578 - INFO - 127.0.0.1 - - [02/Nov/2025 16:39:09] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:39:59,624 - INFO - Deleted ticket: 7
+2025-11-02 16:39:59,630 - INFO - 127.0.0.1 - - [02/Nov/2025 16:39:59] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2025-11-02 16:40:01,520 - INFO - 127.0.0.1 - - [02/Nov/2025 16:40:01] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:40:01,654 - INFO - 127.0.0.1 - - [02/Nov/2025 16:40:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:40:01,663 - INFO - 127.0.0.1 - - [02/Nov/2025 16:40:01] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:41:06,979 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:06] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:41:07,135 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:41:07,146 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:07] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:41:16,174 - INFO - Exported tickets to exports/tickets_export.csv
+2025-11-02 16:41:16,182 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:16] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2025-11-02 16:41:17,784 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:17] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:41:18,306 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:41:18,325 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:18] "[33mGET /static/script.js HTTP/1.1[0m" 404 -
+2025-11-02 16:41:44,965 - INFO - 127.0.0.1 - - [02/Nov/2025 16:41:44] "GET /ticket/8 HTTP/1.1" 200 -
+2025-11-02 16:53:00,137 - ERROR - DB connection failed. Aborting get_all_tickets.
+2025-11-02 16:53:00,488 - INFO - 127.0.0.1 - - [02/Nov/2025 16:53:00] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:53:06,174 - INFO - 127.0.0.1 - - [02/Nov/2025 16:53:06] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:53:13,363 - INFO - 127.0.0.1 - - [02/Nov/2025 16:53:13] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:54:19,622 - INFO - 127.0.0.1 - - [02/Nov/2025 16:54:19] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:54:19,742 - INFO - 127.0.0.1 - - [02/Nov/2025 16:54:19] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-02 16:54:26,055 - INFO - 127.0.0.1 - - [02/Nov/2025 16:54:26] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:54:27,220 - INFO - 127.0.0.1 - - [02/Nov/2025 16:54:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:54:33,700 - INFO - 127.0.0.1 - - [02/Nov/2025 16:54:33] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:54:33,827 - INFO - 127.0.0.1 - - [02/Nov/2025 16:54:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:55:02,755 - INFO - 127.0.0.1 - - [02/Nov/2025 16:55:02] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:55:02,888 - INFO - 127.0.0.1 - - [02/Nov/2025 16:55:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-02 16:57:05,674 - INFO - 127.0.0.1 - - [02/Nov/2025 16:57:05] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 16:57:18,745 - INFO - 127.0.0.1 - - [02/Nov/2025 16:57:18] "GET /dashboard?category=payment_failed HTTP/1.1" 200 -
+2025-11-02 16:57:22,685 - INFO - 127.0.0.1 - - [02/Nov/2025 16:57:22] "GET /ticket/8 HTTP/1.1" 200 -
+2025-11-02 16:59:53,192 - INFO - 127.0.0.1 - - [02/Nov/2025 16:59:53] "GET /ticket/8 HTTP/1.1" 200 -
+2025-11-02 17:02:56,964 - INFO -  * Detected change in 'E:\\support_system\\auth.py', reloading
+2025-11-02 17:17:19,248 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:19] "GET /ticket/8 HTTP/1.1" 200 -
+2025-11-02 17:17:26,908 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:26] "[32mGET /dashboard?category=payment_failed HTTP/1.1[0m" 302 -
+2025-11-02 17:17:27,273 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:27] "GET /login HTTP/1.1" 200 -
+2025-11-02 17:17:31,781 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:31] "GET /signup HTTP/1.1" 200 -
+2025-11-02 17:17:43,853 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:43] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2025-11-02 17:17:44,121 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:44] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-11-02 17:17:44,285 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:44] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-11-02 17:17:44,398 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:44] "GET /signup?__debugger__=yes&cmd=resource&f=console.png&s=6ghy4CFhYFICPT9gJEbh HTTP/1.1" 200 -
+2025-11-02 17:17:44,479 - INFO - 127.0.0.1 - - [02/Nov/2025 17:17:44] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-11-02 17:19:27,456 - INFO - 127.0.0.1 - - [02/Nov/2025 17:19:27] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2025-11-02 17:19:29,163 - INFO - 127.0.0.1 - - [02/Nov/2025 17:19:29] "[36mGET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-11-02 17:19:29,164 - INFO - 127.0.0.1 - - [02/Nov/2025 17:19:29] "[36mGET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-11-02 17:19:29,240 - INFO - 127.0.0.1 - - [02/Nov/2025 17:19:29] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png&s=6ghy4CFhYFICPT9gJEbh HTTP/1.1[0m" 304 -
+2025-11-02 17:19:29,365 - INFO - 127.0.0.1 - - [02/Nov/2025 17:19:29] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-11-02 17:44:27,479 - INFO - 127.0.0.1 - - [02/Nov/2025 17:44:27] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 17:44:27,998 - INFO - 127.0.0.1 - - [02/Nov/2025 17:44:27] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-11-02 17:48:11,980 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:11] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-11-02 17:48:12,973 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:12] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-11-02 17:48:12,982 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:12] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-11-02 17:48:13,277 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:13] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=Mphp87zwx9GVItr33xOZ HTTP/1.1" 200 -
+2025-11-02 17:48:13,533 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:13] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-11-02 17:48:19,410 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:19] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-11-02 17:48:19,506 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:19] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-11-02 17:48:19,719 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:19] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-11-02 17:48:19,924 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:19] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=Mphp87zwx9GVItr33xOZ HTTP/1.1[0m" 304 -
+2025-11-02 17:48:20,015 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:20] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-11-02 17:48:23,086 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:23] "GET /login HTTP/1.1" 200 -
+2025-11-02 17:48:29,627 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:29] "POST /login HTTP/1.1" 200 -
+2025-11-02 17:48:38,904 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-02 17:48:40,982 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:40] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-11-02 17:48:41,363 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:41] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-11-02 17:48:41,431 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:41] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-11-02 17:48:41,503 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:41] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=Mphp87zwx9GVItr33xOZ HTTP/1.1[0m" 304 -
+2025-11-02 17:48:50,836 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:50] "POST /login HTTP/1.1" 200 -
+2025-11-02 17:48:58,874 - INFO - 127.0.0.1 - - [02/Nov/2025 17:48:58] "POST /login HTTP/1.1" 200 -
+2025-11-02 17:51:25,768 - INFO - 127.0.0.1 - - [02/Nov/2025 17:51:25] "GET /signup HTTP/1.1" 200 -
+2025-11-02 17:52:09,916 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:09] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2025-11-02 17:52:09,949 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:09] "GET /login HTTP/1.1" 200 -
+2025-11-02 17:52:23,809 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:23] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-02 17:52:25,701 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:25] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-11-02 17:52:26,011 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:26] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-11-02 17:52:26,013 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:26] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-11-02 17:52:26,369 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:26] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=Mphp87zwx9GVItr33xOZ HTTP/1.1[0m" 304 -
+2025-11-02 17:52:46,558 - INFO - 127.0.0.1 - - [02/Nov/2025 17:52:46] "GET /signup HTTP/1.1" 200 -
+2025-11-02 21:42:09,754 - INFO - 127.0.0.1 - - [02/Nov/2025 21:42:09] "GET /dashboard HTTP/1.1" 200 -
+2025-11-02 21:42:10,655 - INFO - 127.0.0.1 - - [02/Nov/2025 21:42:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-03 09:32:07,362 - INFO - 127.0.0.1 - - [03/Nov/2025 09:32:07] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:32:08,823 - INFO - 127.0.0.1 - - [03/Nov/2025 09:32:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-03 09:32:16,745 - INFO - 127.0.0.1 - - [03/Nov/2025 09:32:16] "GET /login HTTP/1.1" 200 -
+2025-11-03 09:32:37,793 - INFO - 127.0.0.1 - - [03/Nov/2025 09:32:37] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:33:39,407 - INFO - 127.0.0.1 - - [03/Nov/2025 09:33:39] "GET /ticket/9 HTTP/1.1" 200 -
+2025-11-03 09:33:41,061 - INFO - 127.0.0.1 - - [03/Nov/2025 09:33:41] "GET /ticket/9 HTTP/1.1" 200 -
+2025-11-03 09:34:20,371 - INFO - \u2705 Email sent to snekhasivakumar490@gmail.com
+2025-11-03 09:34:20,506 - INFO - Reply logged for ticket 9
+2025-11-03 09:34:20,509 - INFO - 127.0.0.1 - - [03/Nov/2025 09:34:20] "[32mPOST /admin_reply/9 HTTP/1.1[0m" 302 -
+2025-11-03 09:34:20,934 - INFO - 127.0.0.1 - - [03/Nov/2025 09:34:20] "GET /ticket/9 HTTP/1.1" 200 -
+2025-11-03 09:34:52,901 - INFO - 127.0.0.1 - - [03/Nov/2025 09:34:52] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:37:10,851 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:10] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:37:22,271 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:22] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:37:31,128 - INFO - Ticket 9 updated to status: resolved
+2025-11-03 09:37:31,132 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:31] "[32mPOST /update_status/9 HTTP/1.1[0m" 302 -
+2025-11-03 09:37:31,567 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:31] "GET /ticket/9 HTTP/1.1" 200 -
+2025-11-03 09:37:36,451 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:36] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:37:42,146 - INFO - Ticket 9 updated to status: closed
+2025-11-03 09:37:42,148 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:42] "[32mPOST /update_status/9 HTTP/1.1[0m" 302 -
+2025-11-03 09:37:42,571 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:42] "GET /ticket/9 HTTP/1.1" 200 -
+2025-11-03 09:37:47,195 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:47] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:37:50,907 - INFO - Deleted ticket: 9
+2025-11-03 09:37:50,911 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:50] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2025-11-03 09:37:54,624 - INFO - 127.0.0.1 - - [03/Nov/2025 09:37:54] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:39:10,054 - INFO - 127.0.0.1 - - [03/Nov/2025 09:39:10] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:39:19,171 - INFO - 127.0.0.1 - - [03/Nov/2025 09:39:19] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:39:22,643 - INFO - 127.0.0.1 - - [03/Nov/2025 09:39:22] "GET /dashboard HTTP/1.1" 200 -
+2025-11-03 09:39:22,908 - INFO - 127.0.0.1 - - [03/Nov/2025 09:39:22] "GET /dashboard HTTP/1.1" 200 -
+2026-01-03 14:58:39,894 - INFO - 127.0.0.1 - - [03/Jan/2026 14:58:39] "GET /dashboard HTTP/1.1" 200 -
+2026-01-03 14:58:41,086 - INFO - 127.0.0.1 - - [03/Jan/2026 14:58:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-03 14:58:57,842 - INFO - Ticket 12 updated to status: open
+2026-01-03 14:58:57,960 - INFO - 127.0.0.1 - - [03/Jan/2026 14:58:57] "[32mPOST /update_status/12 HTTP/1.1[0m" 302 -
+2026-01-03 14:59:01,513 - INFO - 127.0.0.1 - - [03/Jan/2026 14:59:01] "GET /ticket/12 HTTP/1.1" 200 -
+2026-01-05 19:32:22,955 - INFO - 127.0.0.1 - - [05/Jan/2026 19:32:22] "GET /dashboard HTTP/1.1" 200 -
+2026-01-05 19:32:23,918 - INFO - 127.0.0.1 - - [05/Jan/2026 19:32:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-05 19:32:42,716 - INFO - 127.0.0.1 - - [05/Jan/2026 19:32:42] "POST /translate HTTP/1.1" 200 -
+2026-01-05 19:32:52,995 - INFO - Exported tickets to exports/tickets_export.csv
+2026-01-05 19:32:53,001 - INFO - 127.0.0.1 - - [05/Jan/2026 19:32:53] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-01-05 19:32:54,953 - INFO - Exported tickets to exports/tickets_export.csv
+2026-01-05 19:32:54,964 - INFO - 127.0.0.1 - - [05/Jan/2026 19:32:54] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-01-05 19:33:07,721 - INFO - 127.0.0.1 - - [05/Jan/2026 19:33:07] "GET /dashboard HTTP/1.1" 200 -
+2026-01-05 19:33:11,086 - INFO - 127.0.0.1 - - [05/Jan/2026 19:33:11] "GET /dashboard HTTP/1.1" 200 -
+2026-01-05 19:33:16,137 - INFO - Exported tickets to exports/tickets_export.csv
+2026-01-05 19:33:16,144 - INFO - 127.0.0.1 - - [05/Jan/2026 19:33:16] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-01-05 19:33:20,377 - INFO - 127.0.0.1 - - [05/Jan/2026 19:33:20] "GET /dashboard HTTP/1.1" 200 -
+2026-01-05 19:33:46,279 - INFO - Exported tickets to exports/tickets_export.csv
+2026-01-05 19:33:46,283 - INFO - 127.0.0.1 - - [05/Jan/2026 19:33:46] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-01-05 19:33:54,144 - INFO - 127.0.0.1 - - [05/Jan/2026 19:33:54] "GET /dashboard HTTP/1.1" 200 -
+2026-01-05 19:34:02,349 - INFO - 127.0.0.1 - - [05/Jan/2026 19:34:02] "GET /dashboard?category=login_failed HTTP/1.1" 200 -
+2026-01-05 19:34:09,332 - INFO - 127.0.0.1 - - [05/Jan/2026 19:34:09] "GET /dashboard?category=payment_failed HTTP/1.1" 200 -
+2026-01-05 19:34:13,434 - INFO - 127.0.0.1 - - [05/Jan/2026 19:34:13] "GET /dashboard?category=feature_request HTTP/1.1" 200 -
+2026-01-05 19:34:30,617 - INFO - 127.0.0.1 - - [05/Jan/2026 19:34:30] "GET /dashboard?category= HTTP/1.1" 200 -
+2026-01-05 19:34:57,303 - INFO - Ticket 11 updated to status: open
+2026-01-05 19:34:57,306 - INFO - 127.0.0.1 - - [05/Jan/2026 19:34:57] "[32mPOST /update_status/11 HTTP/1.1[0m" 302 -
+2026-01-05 19:34:58,822 - INFO - 127.0.0.1 - - [05/Jan/2026 19:34:58] "GET /ticket/11 HTTP/1.1" 200 -
+2026-01-05 19:39:34,704 - INFO - 127.0.0.1 - - [05/Jan/2026 19:39:34] "GET /dashboard?category= HTTP/1.1" 200 -
+2026-01-05 20:01:13,600 - INFO - 127.0.0.1 - - [05/Jan/2026 20:01:13] "GET /dashboard?category= HTTP/1.1" 200 -
+2026-01-05 20:04:32,763 - INFO - 127.0.0.1 - - [05/Jan/2026 20:04:32] "GET /dashboard?category= HTTP/1.1" 200 -
+2026-01-05 20:04:47,287 - INFO - Ticket 13 updated to status: resolved
+2026-01-05 20:04:47,347 - INFO - 127.0.0.1 - - [05/Jan/2026 20:04:47] "[32mPOST /update_status/13 HTTP/1.1[0m" 302 -
+2026-01-05 20:04:49,198 - INFO - 127.0.0.1 - - [05/Jan/2026 20:04:49] "GET /ticket/13 HTTP/1.1" 200 -
+2026-01-05 20:05:15,806 - INFO - Exported tickets to exports/tickets_export.csv
+2026-01-05 20:05:15,813 - INFO - 127.0.0.1 - - [05/Jan/2026 20:05:15] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-01-05 20:05:24,325 - INFO - 127.0.0.1 - - [05/Jan/2026 20:05:24] "GET /dashboard HTTP/1.1" 200 -
+2026-01-05 20:07:01,577 - INFO - Ticket 13 updated to status: resolved
+2026-01-05 20:07:01,905 - INFO - 127.0.0.1 - - [05/Jan/2026 20:07:01] "[32mPOST /update_status/13 HTTP/1.1[0m" 302 -
+2026-01-05 20:07:05,190 - INFO - 127.0.0.1 - - [05/Jan/2026 20:07:05] "GET /ticket/13 HTTP/1.1" 200 -
+2026-01-05 20:11:48,418 - INFO - 127.0.0.1 - - [05/Jan/2026 20:11:48] "GET /dashboard HTTP/1.1" 200 -
+2026-01-06 09:09:35,583 - INFO - 127.0.0.1 - - [06/Jan/2026 09:09:35] "GET /dashboard HTTP/1.1" 200 -
+2026-01-06 09:09:36,958 - INFO - 127.0.0.1 - - [06/Jan/2026 09:09:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 09:10:52,330 - INFO - Deleted ticket: 10
+2026-01-06 09:10:52,332 - INFO - 127.0.0.1 - - [06/Jan/2026 09:10:52] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2026-01-06 09:10:55,592 - INFO - 127.0.0.1 - - [06/Jan/2026 09:10:55] "GET /dashboard HTTP/1.1" 200 -
