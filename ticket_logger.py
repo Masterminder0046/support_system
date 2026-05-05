@@ -49,7 +49,7 @@ def get_db_connection():
 # -------------------------
 # Ticket operations
 # -------------------------
-def log_ticket(email, subject, message, issue_type):
+def log_ticket(email, subject, message, issue_type, user_id=None):
     setup_logging()
     conn = get_db_connection()
     if not conn:
@@ -57,24 +57,31 @@ def log_ticket(email, subject, message, issue_type):
         return None
     try:
         cursor = conn.cursor(dictionary=True)
-        cursor.execute("SELECT id FROM tickets WHERE email = %s", (email,))
+        # 🔍 Improved duplicate check: email + subject
+        cursor.execute("SELECT id FROM tickets WHERE email = %s AND subject = %s", (email, subject))
         existing = cursor.fetchone()
         if existing:
-            logging.warning(f"Duplicate ticket attempt from {email}")
-            return None  # Or return existing['id'] if you want to redirect
+            logging.warning(f"Duplicate ticket attempt from {email} | Subject: {subject}")
+            # Optional audit log
+            logging.info(f"Duplicate ticket skipped for user_id={user_id}, email={email}, subject={subject}")
+            return None  # Or return existing['id'] if you want to reuse the same ticket
+
+        # 📝 Insert new ticket
         cursor.execute("""
             INSERT INTO tickets (email, subject, message, issue_type)
             VALUES (%s, %s, %s, %s)
         """, (email, subject, message, issue_type))
         conn.commit()
         ticket_id = cursor.lastrowid
-        logging.info(f"Ticket logged: {email} | {issue_type} | {subject}")
+        logging.info(f"Ticket logged: {email} | {issue_type} | {subject} | id={ticket_id}")
+# Remove the second logging.info line to avoid duplicate log entries
         return ticket_id
     except Exception as e:
-        logging.error(f"Failed to log ticket: {e}")
+        logging.error(f"Failed to log ticket for {email}: {e}")
         return None
     finally:
         conn.close()
+
 
 
 def update_ticket_status(ticket_id, new_status):

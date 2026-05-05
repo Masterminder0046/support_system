@@ -1055,3 +1055,130 @@ UnboundLocalError: cannot access local variable 'subject' where it is not associ
 2026-01-06 09:11:30,349 - WARNING - Duplicate ticket attempt from sheikmohamed0046@gmail.com
 2026-01-06 09:11:30,351 - ERROR - Failed to log ticket for sheikmohamed0046@gmail.com
 2026-01-06 09:11:30,352 - WARNING - Processed 0 out of 1 emails successfully.
+2026-01-06 09:39:59,621 - INFO - Support system initialized.
+2026-01-06 09:40:03,038 - INFO - fetch_emails() completed. 1 emails fetched.
+2026-01-06 09:40:03,039 - INFO - fetch_emails() completed. 1 emails fetched.
+2026-01-06 09:40:03,040 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Order issue
+2026-01-06 09:40:03,040 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-01-06 09:40:03,042 - INFO - Attempting to send email...
+2026-01-06 09:40:07,333 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-01-06 09:40:08,564 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-01-06 09:40:09,314 - INFO - package: mysql.connector.plugins
+2026-01-06 09:40:09,316 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:40:09,320 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:40:09,329 - INFO - package: mysql.connector.plugins
+2026-01-06 09:40:09,340 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:40:09,347 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:40:09,551 - WARNING - Duplicate ticket attempt from finalyearproject822@gmail.com
+2026-01-06 09:40:09,556 - ERROR - Failed to log ticket for finalyearproject822@gmail.com
+2026-01-06 09:40:09,559 - WARNING - Processed 0 out of 1 emails successfully.
+2026-01-06 09:48:22,543 - INFO - Support system initialized.
+2026-01-06 09:48:25,576 - INFO - fetch_emails() completed. 1 emails fetched.
+2026-01-06 09:48:25,577 - INFO - fetch_emails() completed. 1 emails fetched.
+2026-01-06 09:48:25,577 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: Return product
+2026-01-06 09:48:25,577 - INFO - Sending reply to: sheikmohamed0046@gmail.com
+2026-01-06 09:48:25,579 - INFO - Attempting to send email...
+2026-01-06 09:48:28,667 - INFO - Email sent successfully to sheikmohamed0046@gmail.com
+2026-01-06 09:48:29,897 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: return_request
+2026-01-06 09:48:30,781 - INFO - package: mysql.connector.plugins
+2026-01-06 09:48:30,782 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:48:30,784 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:48:30,791 - INFO - package: mysql.connector.plugins
+2026-01-06 09:48:30,792 - INFO - plugin_name: mysql_native_password
+2026-01-06 09:48:30,792 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 09:48:31,055 - INFO - Ticket logged: sheikmohamed0046@gmail.com | return_request | Return product | id=14
+2026-01-06 09:48:31,058 - INFO - Ticket logged: sheikmohamed0046@gmail.com | return_request | Return product
+2026-01-06 09:48:31,059 - INFO - Successfully processed all 1 emails.
+2026-04-16 09:48:14,103 - INFO - Support system initialized.
+2026-04-16 09:48:18,934 - INFO - fetch_emails() completed. 2 emails fetched.
+2026-04-16 09:48:18,934 - INFO - fetch_emails() completed. 2 emails fetched.
+2026-04-16 09:48:18,935 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Updates to how privacy settings work on Play
+2026-04-16 09:48:18,935 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-04-16 09:48:18,936 - INFO - Attempting to send email...
+2026-04-16 09:48:23,335 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-04-16 09:48:25,385 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-04-16 09:48:32,352 - INFO - package: mysql.connector.plugins
+2026-04-16 09:48:32,353 - INFO - plugin_name: mysql_native_password
+2026-04-16 09:48:32,358 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-16 09:48:33,926 - INFO - package: mysql.connector.plugins
+2026-04-16 09:48:33,927 - INFO - plugin_name: mysql_native_password
+2026-04-16 09:48:33,927 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-16 09:48:38,853 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Updates to how privacy settings work on Play | id=22
+2026-04-16 09:48:38,856 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Updates to how privacy settings work on Play
+2026-04-16 09:48:38,856 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Order issue
+2026-04-16 09:48:38,856 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-04-16 09:48:38,857 - INFO - Attempting to send email...
+2026-04-16 09:48:42,161 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-04-16 09:48:43,509 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-04-16 09:48:44,107 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Order issue | id=23
+2026-04-16 09:48:44,114 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Order issue
+2026-04-16 09:48:44,142 - INFO - Successfully processed all 2 emails.
+2026-04-16 09:57:10,053 - INFO - Support system initialized.
+2026-04-16 09:57:15,814 - INFO - fetch_emails() completed. 3 emails fetched.
+2026-04-16 09:57:15,933 - INFO - fetch_emails() completed. 3 emails fetched.
+2026-04-16 09:57:15,934 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Updates to how privacy settings work on Play
+2026-04-16 09:57:15,936 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-04-16 09:57:15,938 - INFO - Attempting to send email...
+2026-04-16 09:57:19,851 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-04-16 09:57:21,440 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-04-16 09:57:23,808 - INFO - package: mysql.connector.plugins
+2026-04-16 09:57:23,861 - INFO - plugin_name: mysql_native_password
+2026-04-16 09:57:24,037 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-16 09:57:24,135 - INFO - package: mysql.connector.plugins
+2026-04-16 09:57:24,155 - INFO - plugin_name: mysql_native_password
+2026-04-16 09:57:24,158 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-16 09:57:24,374 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Re: Updates to how privacy settings work on Play | id=24
+2026-04-16 09:57:24,413 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Re: Updates to how privacy settings work on Play
+2026-04-16 09:57:24,420 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Order issue
+2026-04-16 09:57:24,422 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-04-16 09:57:24,424 - INFO - Attempting to send email...
+2026-04-16 09:57:28,409 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-04-16 09:57:29,947 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-04-16 09:57:30,763 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Order issue | id=25
+2026-04-16 09:57:30,778 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Order issue
+2026-04-16 09:57:30,790 - INFO - Processing email from sheikmohamed0046@gmail.com | Subject: Payment issue
+2026-04-16 09:57:30,792 - INFO - Sending reply to: sheikmohamed0046@gmail.com
+2026-04-16 09:57:30,794 - INFO - Attempting to send email...
+2026-04-16 09:57:36,440 - INFO - Email sent successfully to sheikmohamed0046@gmail.com
+2026-04-16 09:57:37,932 - INFO - Reply sent to sheikmohamed0046@gmail.com | Issue type: payment_failed
+2026-04-16 09:57:38,457 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | Payment issue | id=26
+2026-04-16 09:57:38,507 - INFO - Ticket logged: sheikmohamed0046@gmail.com | payment_failed | Payment issue
+2026-04-16 09:57:38,514 - INFO - Successfully processed all 3 emails.
+2026-04-26 15:13:54,936 - INFO - Support system initialized.
+2026-04-26 15:13:59,745 - INFO - fetch_emails() completed. 4 emails fetched.
+2026-04-26 15:13:59,747 - INFO - fetch_emails() completed. 4 emails fetched.
+2026-04-26 15:13:59,748 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Re: Updates to how privacy settings work on Play
+2026-04-26 15:13:59,750 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-04-26 15:13:59,752 - INFO - Attempting to send email...
+2026-04-26 15:14:03,811 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-04-26 15:14:05,067 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-04-26 15:14:08,333 - INFO - package: mysql.connector.plugins
+2026-04-26 15:14:08,334 - INFO - plugin_name: mysql_native_password
+2026-04-26 15:14:08,343 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-26 15:14:08,579 - INFO - package: mysql.connector.plugins
+2026-04-26 15:14:08,580 - INFO - plugin_name: mysql_native_password
+2026-04-26 15:14:08,581 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-26 15:14:13,502 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Re: Re: Updates to how privacy settings work on Play | id=27
+2026-04-26 15:14:13,506 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Re: Re: Updates to how privacy settings work on Play
+2026-04-26 15:14:13,508 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Re: Re: Order issue
+2026-04-26 15:14:13,508 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-04-26 15:14:13,509 - INFO - Attempting to send email...
+2026-04-26 15:14:16,249 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-04-26 15:14:17,545 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: general
+2026-04-26 15:14:17,721 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Re: Order issue | id=28
+2026-04-26 15:14:17,725 - INFO - Ticket logged: finalyearproject822@gmail.com | general | Re: Re: Re: Order issue
+2026-04-26 15:14:17,725 - INFO - Processing email from finalyearproject822@gmail.com | Subject: Re: Payment issue
+2026-04-26 15:14:17,726 - INFO - Sending reply to: finalyearproject822@gmail.com
+2026-04-26 15:14:17,726 - INFO - Attempting to send email...
+2026-04-26 15:14:20,617 - INFO - Email sent successfully to finalyearproject822@gmail.com
+2026-04-26 15:14:21,892 - INFO - Reply sent to finalyearproject822@gmail.com | Issue type: payment_failed
+2026-04-26 15:14:22,076 - INFO - Ticket logged: finalyearproject822@gmail.com | payment_failed | Re: Payment issue | id=29
+2026-04-26 15:14:22,079 - INFO - Ticket logged: finalyearproject822@gmail.com | payment_failed | Re: Payment issue
+2026-04-26 15:14:22,080 - INFO - Processing email from ssselvaa7ii@gmail.com | Subject: Complaint about Products damages issues.
+2026-04-26 15:14:22,080 - INFO - Sending reply to: ssselvaa7ii@gmail.com
+2026-04-26 15:14:22,080 - INFO - Attempting to send email...
+2026-04-26 15:14:25,338 - INFO - Email sent successfully to ssselvaa7ii@gmail.com
+2026-04-26 15:14:26,660 - INFO - Reply sent to ssselvaa7ii@gmail.com | Issue type: general
+2026-04-26 15:14:26,809 - INFO - Ticket logged: ssselvaa7ii@gmail.com | general | Complaint about Products damages issues. | id=30
+2026-04-26 15:14:26,811 - INFO - Ticket logged: ssselvaa7ii@gmail.com | general | Complaint about Products damages issues.
+2026-04-26 15:14:26,812 - INFO - Successfully processed all 4 emails.

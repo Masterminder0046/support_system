@@ -264,3 +264,99 @@
 2026-01-06 09:10:52,330 - INFO - Deleted ticket: 10
 2026-01-06 09:10:52,332 - INFO - 127.0.0.1 - - [06/Jan/2026 09:10:52] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
 2026-01-06 09:10:55,592 - INFO - 127.0.0.1 - - [06/Jan/2026 09:10:55] "GET /dashboard HTTP/1.1" 200 -
+2026-01-06 15:38:17,039 - INFO - package: mysql.connector.plugins
+2026-01-06 15:38:17,087 - INFO - plugin_name: mysql_native_password
+2026-01-06 15:38:17,112 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 15:38:17,166 - INFO - package: mysql.connector.plugins
+2026-01-06 15:38:17,180 - INFO - plugin_name: mysql_native_password
+2026-01-06 15:38:17,181 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-06 15:38:30,119 - INFO - 127.0.0.1 - - [06/Jan/2026 15:38:30] "GET /dashboard HTTP/1.1" 200 -
+2026-01-06 15:38:47,385 - INFO - Exported tickets to exports/tickets_export.csv
+2026-01-06 15:38:47,449 - INFO - 127.0.0.1 - - [06/Jan/2026 15:38:47] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-01-06 15:38:59,068 - INFO - 127.0.0.1 - - [06/Jan/2026 15:38:59] "GET /dashboard HTTP/1.1" 200 -
+2026-01-06 15:39:23,891 - INFO - 127.0.0.1 - - [06/Jan/2026 15:39:23] "POST /translate HTTP/1.1" 200 -
+2026-01-06 15:42:11,239 - INFO - 127.0.0.1 - - [06/Jan/2026 15:42:11] "[32mGET / HTTP/1.1[0m" 302 -
+2026-01-06 15:42:26,590 - INFO - 127.0.0.1 - - [06/Jan/2026 15:42:26] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:26:08,766 - INFO - package: mysql.connector.plugins
+2026-01-19 10:26:08,819 - INFO - plugin_name: mysql_native_password
+2026-01-19 10:26:08,845 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-19 10:26:08,864 - INFO - package: mysql.connector.plugins
+2026-01-19 10:26:08,878 - INFO - plugin_name: mysql_native_password
+2026-01-19 10:26:08,895 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-01-19 10:26:19,279 - INFO - 127.0.0.1 - - [19/Jan/2026 10:26:19] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:27:44,877 - INFO - 127.0.0.1 - - [19/Jan/2026 10:27:44] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:27:59,740 - INFO - Deleted ticket: 14
+2026-01-19 10:27:59,756 - INFO - 127.0.0.1 - - [19/Jan/2026 10:27:59] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2026-01-19 10:28:07,776 - INFO - 127.0.0.1 - - [19/Jan/2026 10:28:07] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:28:08,654 - INFO - Deleted ticket: 13
+2026-01-19 10:28:08,657 - INFO - 127.0.0.1 - - [19/Jan/2026 10:28:08] "[32mPOST /delete_ticket HTTP/1.1[0m" 302 -
+2026-01-19 10:28:12,119 - INFO - 127.0.0.1 - - [19/Jan/2026 10:28:12] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:29:22,877 - INFO - 127.0.0.1 - - [19/Jan/2026 10:29:22] "[32mGET / HTTP/1.1[0m" 302 -
+2026-01-19 10:29:26,551 - INFO - 127.0.0.1 - - [19/Jan/2026 10:29:26] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:30:39,597 - INFO - 127.0.0.1 - - [19/Jan/2026 10:30:39] "[32mGET / HTTP/1.1[0m" 302 -
+2026-01-19 10:30:43,265 - INFO - 127.0.0.1 - - [19/Jan/2026 10:30:43] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:31:06,495 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:06] "[32mGET / HTTP/1.1[0m" 302 -
+2026-01-19 10:31:09,523 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:09] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:31:21,559 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:21] "GET /login HTTP/1.1" 200 -
+2026-01-19 10:31:28,344 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:28] "GET /signup HTTP/1.1" 200 -
+2026-01-19 10:31:38,721 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:38] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2026-01-19 10:31:38,741 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:38] "GET /signup HTTP/1.1" 200 -
+2026-01-19 10:31:42,856 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:42] "GET /login HTTP/1.1" 200 -
+2026-01-19 10:31:51,423 - INFO - 127.0.0.1 - - [19/Jan/2026 10:31:51] "POST /login HTTP/1.1" 200 -
+2026-01-19 10:32:10,124 - INFO - 127.0.0.1 - - [19/Jan/2026 10:32:10] "[32mPOST /login HTTP/1.1[0m" 302 -
+2026-01-19 10:32:13,390 - INFO - 127.0.0.1 - - [19/Jan/2026 10:32:13] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:38:37,586 - INFO - 127.0.0.1 - - [19/Jan/2026 10:38:37] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:46:29,895 - INFO - 127.0.0.1 - - [19/Jan/2026 10:46:29] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:46:44,028 - INFO - 127.0.0.1 - - [19/Jan/2026 10:46:44] "GET /dashboard HTTP/1.1" 200 -
+2026-01-19 10:52:35,341 - INFO - 127.0.0.1 - - [19/Jan/2026 10:52:35] "GET /dashboard HTTP/1.1" 200 -
+2026-04-16 09:54:59,899 - INFO - 127.0.0.1 - - [16/Apr/2026 09:54:59] "GET /dashboard HTTP/1.1" 200 -
+2026-04-16 09:55:07,367 - INFO - 127.0.0.1 - - [16/Apr/2026 09:55:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-16 09:55:14,285 - INFO - Ticket 23 updated to status: open
+2026-04-16 09:55:14,402 - INFO - 127.0.0.1 - - [16/Apr/2026 09:55:14] "[32mPOST /update_status/23 HTTP/1.1[0m" 302 -
+2026-04-16 09:55:31,236 - INFO - 127.0.0.1 - - [16/Apr/2026 09:55:31] "GET /ticket/23 HTTP/1.1" 200 -
+2026-04-16 09:55:52,825 - INFO - 127.0.0.1 - - [16/Apr/2026 09:55:52] "GET /dashboard HTTP/1.1" 200 -
+2026-04-16 09:59:07,108 - INFO - 127.0.0.1 - - [16/Apr/2026 09:59:07] "GET /dashboard HTTP/1.1" 200 -
+2026-04-16 09:59:19,869 - INFO - Ticket 26 updated to status: open
+2026-04-16 09:59:20,009 - INFO - 127.0.0.1 - - [16/Apr/2026 09:59:20] "[32mPOST /update_status/26 HTTP/1.1[0m" 302 -
+2026-04-16 09:59:45,757 - INFO - 127.0.0.1 - - [16/Apr/2026 09:59:45] "GET /ticket/26 HTTP/1.1" 200 -
+2026-04-26 15:15:37,342 - INFO - 127.0.0.1 - - [26/Apr/2026 15:15:37] "GET /dashboard HTTP/1.1" 200 -
+2026-04-26 15:15:39,425 - INFO - 127.0.0.1 - - [26/Apr/2026 15:15:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-26 15:16:40,197 - INFO - Ticket 30 updated to status: open
+2026-04-26 15:16:40,402 - INFO - 127.0.0.1 - - [26/Apr/2026 15:16:40] "[32mPOST /update_status/30 HTTP/1.1[0m" 302 -
+2026-04-26 15:16:48,720 - INFO - 127.0.0.1 - - [26/Apr/2026 15:16:48] "GET /ticket/30 HTTP/1.1" 200 -
+2026-04-26 15:17:20,744 - INFO - \u2705 Email sent to ssselvaa7ii@gmail.com
+2026-04-26 15:17:21,038 - INFO - Reply logged for ticket 30
+2026-04-26 15:17:21,042 - INFO - 127.0.0.1 - - [26/Apr/2026 15:17:21] "[32mPOST /admin_reply/30 HTTP/1.1[0m" 302 -
+2026-04-26 15:17:21,960 - INFO - 127.0.0.1 - - [26/Apr/2026 15:17:21] "GET /ticket/30 HTTP/1.1" 200 -
+2026-04-26 15:18:08,041 - INFO - 127.0.0.1 - - [26/Apr/2026 15:18:08] "GET /dashboard HTTP/1.1" 200 -
+2026-04-26 15:18:23,280 - INFO - Ticket 19 updated to status: open
+2026-04-26 15:18:23,284 - INFO - 127.0.0.1 - - [26/Apr/2026 15:18:23] "[32mPOST /update_status/19 HTTP/1.1[0m" 302 -
+2026-04-26 15:18:24,026 - INFO - 127.0.0.1 - - [26/Apr/2026 15:18:24] "GET /ticket/19 HTTP/1.1" 200 -
+2026-04-26 15:18:34,354 - INFO - 127.0.0.1 - - [26/Apr/2026 15:18:34] "GET /dashboard HTTP/1.1" 200 -
+2026-04-26 15:18:47,056 - INFO - Ticket 30 updated to status: closed
+2026-04-26 15:18:47,070 - INFO - 127.0.0.1 - - [26/Apr/2026 15:18:47] "[32mPOST /update_status/30 HTTP/1.1[0m" 302 -
+2026-04-26 15:18:52,205 - INFO - 127.0.0.1 - - [26/Apr/2026 15:18:52] "GET /ticket/30 HTTP/1.1" 200 -
+2026-04-26 15:19:01,716 - INFO - 127.0.0.1 - - [26/Apr/2026 15:19:01] "GET /dashboard HTTP/1.1" 200 -
+2026-04-26 15:19:06,170 - INFO - Exported tickets to exports/tickets_export.csv
+2026-04-26 15:19:06,404 - INFO - 127.0.0.1 - - [26/Apr/2026 15:19:06] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:19:59,570 - INFO - 127.0.0.1 - - [26/Apr/2026 15:19:59] "GET /dashboard HTTP/1.1" 200 -
+2026-04-26 15:20:07,533 - INFO - Exported tickets to exports/tickets_export.csv
+2026-04-26 15:20:07,865 - INFO - 127.0.0.1 - - [26/Apr/2026 15:20:07] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:20:51,897 - INFO - 127.0.0.1 - - [26/Apr/2026 15:20:51] "GET /dashboard HTTP/1.1" 200 -
+2026-04-26 15:21:06,046 - INFO - Exported tickets to exports/tickets_export.csv
+2026-04-26 15:21:06,448 - INFO - 127.0.0.1 - - [26/Apr/2026 15:21:06] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:21:23,724 - INFO - 127.0.0.1 - - [26/Apr/2026 15:21:23] "GET /dashboard HTTP/1.1" 200 -
+2026-04-26 15:21:39,031 - INFO - 127.0.0.1 - - [26/Apr/2026 15:21:39] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-26 15:22:45,709 - INFO - Exported tickets to exports/tickets_export.csv
+2026-04-26 15:22:46,327 - INFO - 127.0.0.1 - - [26/Apr/2026 15:22:46] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:23:18,728 - INFO - Exported tickets to exports/tickets_export.csv
+2026-04-26 15:23:18,732 - INFO - 127.0.0.1 - - [26/Apr/2026 15:23:18] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:23:18,991 - ERROR - DB connection failed. Aborting export_tickets_to_csv.
+2026-04-26 15:23:19,015 - ERROR - DB connection failed. Aborting export_tickets_to_csv.
+2026-04-26 15:23:19,013 - INFO - 127.0.0.1 - - [26/Apr/2026 15:23:19] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:23:19,023 - ERROR - DB connection failed. Aborting get_notes.
+2026-04-26 15:23:19,031 - INFO - 127.0.0.1 - - [26/Apr/2026 15:23:19] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:23:19,039 - INFO - Exported tickets to exports/tickets_export.csv
+2026-04-26 15:23:19,043 - INFO - 127.0.0.1 - - [26/Apr/2026 15:23:19] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
+2026-04-26 15:23:19,393 - INFO - Exported tickets to exports/tickets_export.csv
+2026-04-26 15:23:19,397 - INFO - 127.0.0.1 - - [26/Apr/2026 15:23:19] "[32mPOST /export_csv HTTP/1.1[0m" 302 -
